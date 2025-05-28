@@ -208,6 +208,38 @@ const translations = {
     'report.error.description':
       'There was an error submitting the report. Please try again.',
     'report.button': 'Report Information',
+
+    // Contact Form
+    'contact.title': 'Contact Us',
+    'contact.description':
+      "Found an error or have a suggestion? We'd love to hear from you! Please use the form below to report any issues or share your ideas for improving CaverBob.org.",
+    'contact.name': 'Name',
+    'contact.name.placeholder': 'Your name',
+    'contact.email': 'Email',
+    'contact.email.placeholder': 'your.email@example.com',
+    'contact.email.warning':
+      'Please provide a valid email address so we can respond to your message.',
+    'contact.subject': 'Subject',
+    'contact.subject.placeholder': 'What is this about?',
+    'contact.message': 'Message',
+    'contact.message.placeholder': 'Tell us about the error or suggestion...',
+    'contact.submit': 'Send Message',
+    'contact.submitting': 'Sending...',
+    'contact.success': 'Message Sent',
+    'contact.success.description':
+      'Thank you for your feedback. We will review it and get back to you soon.',
+    'contact.error': 'Error',
+    'contact.error.description':
+      'There was an error sending your message. Please try again.',
+
+    // Version Card
+    'version.title': 'Current Version',
+    'version.latest.title': 'Latest Updates',
+    'version.latest.item1':
+      'Added contact form for reporting issues and suggestions',
+    'version.latest.item2':
+      'Implemented new information reporting system for caves',
+    'version.latest.item3': 'Added French language support',
   },
   es: {
     // Navigation
@@ -397,6 +429,39 @@ const translations = {
     'report.error.description':
       'Hubo un error al enviar el reporte. Por favor, inténtalo de nuevo.',
     'report.button': 'Reportar Información',
+
+    // Contact Form
+    'contact.title': 'Contáctanos',
+    'contact.description':
+      '¿Encontraste un error o tienes una sugerencia? ¡Nos encantaría escucharte! Por favor, utiliza el formulario de abajo para reportar cualquier problema o compartir tus ideas para mejorar CaverBob.org.',
+    'contact.name': 'Nombre',
+    'contact.name.placeholder': 'Tu nombre',
+    'contact.email': 'Correo Electrónico',
+    'contact.email.placeholder': 'tu.correo@ejemplo.com',
+    'contact.email.warning':
+      'Por favor, proporciona una dirección de correo electrónico válida para que podamos responderte.',
+    'contact.subject': 'Asunto',
+    'contact.subject.placeholder': '¿De qué se trata?',
+    'contact.message': 'Mensaje',
+    'contact.message.placeholder':
+      'Cuéntanos sobre el error o la sugerencia...',
+    'contact.submit': 'Enviar Mensaje',
+    'contact.submitting': 'Enviando...',
+    'contact.success': 'Mensaje Enviado',
+    'contact.success.description':
+      'Gracias por tu retroalimentación. La revisaremos y te responderemos pronto.',
+    'contact.error': 'Error',
+    'contact.error.description':
+      'Hubo un error al enviar tu mensaje. Por favor, inténtalo de nuevo.',
+
+    // Version Card
+    'version.title': 'Versión Actual',
+    'version.latest.title': 'Últimas Actualizaciones',
+    'version.latest.item1':
+      'Añadido formulario de contacto para reportar problemas y sugerencias',
+    'version.latest.item2':
+      'Implementado sistema de reporte de nueva información para cuevas',
+    'version.latest.item3': 'Añadido soporte para el idioma francés',
   },
   fr: {
     // Navigation
@@ -586,6 +651,39 @@ const translations = {
     'report.error.description':
       "Une erreur est survenue lors de l'envoi du signalement. Veuillez réessayer.",
     'report.button': 'Signaler des Informations',
+
+    // Contact Form
+    'contact.title': 'Contactez-nous',
+    'contact.description':
+      'Vous avez trouvé une erreur ou avez une suggestion ? Nous aimerions avoir de vos nouvelles ! Veuillez utiliser le formulaire ci-dessous pour signaler tout problème ou partager vos idées pour améliorer CaverBob.org.',
+    'contact.name': 'Nom',
+    'contact.name.placeholder': 'Votre nom',
+    'contact.email': 'Email',
+    'contact.email.placeholder': 'votre.email@exemple.com',
+    'contact.email.warning':
+      'Veuillez fournir une adresse email valide pour que nous puissions vous répondre.',
+    'contact.subject': 'Sujet',
+    'contact.subject.placeholder': "De quoi s'agit-il ?",
+    'contact.message': 'Message',
+    'contact.message.placeholder':
+      "Parlez-nous de l'erreur ou de la suggestion...",
+    'contact.submit': 'Envoyer le Message',
+    'contact.submitting': 'Envoi en cours...',
+    'contact.success': 'Message Envoyé',
+    'contact.success.description':
+      "Merci pour votre retour. Nous l'examinerons et vous répondrons bientôt.",
+    'contact.error': 'Erreur',
+    'contact.error.description':
+      "Une erreur est survenue lors de l'envoi de votre message. Veuillez réessayer.",
+
+    // Version Card
+    'version.title': 'Version Actuelle',
+    'version.latest.title': 'Dernières Mises à Jour',
+    'version.latest.item1':
+      "Ajout d'un formulaire de contact pour signaler les problèmes et les suggestions",
+    'version.latest.item2':
+      "Mise en place d'un système de signalement de nouvelles informations pour les grottes",
+    'version.latest.item3': 'Ajout du support de la langue française',
   },
 }
 
