@@ -1,0 +1,954 @@
+#;name;country;state;massif;length_decimals;length;depth_decimals;depth;entrances;terrain_type;source;updated_year;updated_month
+668;Jashchik Pandora, ESB;Russia;-;-;10100,00;10100;0,00;0;0;Limestone;Caves and Caving I59P34S;2017;6
+667;Pestera Cornilor;Romania;Muntii Padurea Craiului;-;10140,00;10140;0,00;0;0;Limestone;Romania-Natural;2022;8
+666;Blissits Cave;USA;Kentucky;Breckenridge;10150,13;10150;0,00;0;0;Limestone;Ft. Knox Grotto/Lowcrawler Newsletter;1985;11
+661;Reinvikgrotta;Norway;-;Sorfold;10200,00;10200;0,00;0;0;Limestone;David stPierre;2016;1
+659;Cueva del Arroyo Grande;Mexico;Chiapas;-;10207,00;10207;0,00;0;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+657;Grutas de Rancho Nuevo (San Cristobal);Mexico;Chiapas;-;10218,00;10218;0,00;0;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+654;Fallen Rock Cave;USA;Virginia;Tazewell;10280,49;10280;0,00;0;0;Limestone;Virginia Speleological Survey;2016;6
+650;Clarks Cave;USA;Virginia;Bath;10354,52;10354;0,00;0;0;Limestone;Virginia Speleological Survey;1994;8
+649;Actun K†ua;Mexico;Yucat†n;-;10360,00;10360;0,00;0;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+638;Antsatrabonko;Madagascar;Ambilobe;Ankarana;10475,00;10475;0,00;0;0;Limestone;Atlas of the Great Caves and Karst of Africa Part 1;2017;6
+636;Yagodinska Cave;Bulgaria;Yagodina;Rhodope Mountains;10500,00;10500;0,00;0;0;Limestone;Wikipedia;2022;8
+626;Vorontsovskaja, WC;Russia;-;-;10640,00;10640;0,00;0;0;Limestone;Caves and Caving I59P34S;2017;6
+617;Pestera Polovragi;Romania;Muntii Capatanii;-;10793,00;10793;0,00;0;0;Limestone;Romania-Natural;2022;8
+612;Ambatoanjahana;Madagascar;Ambilobe;Ankarana;10810,00;10810;0,00;0;0;Limestone;Atlas of the Great Caves and Karst of Africa Part 1;2017;6
+608;Cueva de la Mano;Mexico;Oaxaca;-;10841,00;10841;0,00;0;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+604;Sistema Quijada de Jaguar (Jaguar Jaw);Mexico;Quintana Roo;Tulum;10900,00;10900;0,00;0;0;Limestone;QRSS Long Caves List;2021;5
+590;Mira de Aire;Portugal;;;11000,00;11000;0,00;0;0;Limestone;http://liveportugal.pt/en/mira-de-aire-caves/;1999;1
+591;Khabjui;Georgia;-;-;11000,00;11000;0,00;0;0;Limestone;;;
+592;Tskhogorskaja 1-2-Troja, NRP;Georgia;-;-;11000,00;11000;0,00;0;0;Limestone;;2016;1
+580;Devils Icebox;USA;Missouri;Boone;11249,30;11249;0,00;0;0;Limestone;Jeff Crews Email;2024;7
+578;Tham Ban Chom Ong;Laos;-;Oudoaxay;11300,00;11300;0,00;0;0;Limestone;;;
+569;Complejo de los Covachos de Pe§ajorao;Spain;Cantabria;Camargo;11500,00;11500;0,00;0;0;Limestone;Pepe Membrado e-mail;2022;7
+561;Sistema Rotablin;Spain;Cantabria;Reocin;11596,00;11596;0,00;0;0;Limestone;Pepe Membrado e-mail;2022;7
+560;Lisanby Cave;USA;Kentucky;Caldwell;11619,46;11619;0,00;0;0;Limestone;Mike Dyas;1989;6
+554;LZ/YZ-31;Spain;Canarias Island;Lanzarote;11700,00;11700;0,00;0;0;Lava;Laurens Smets e-mail;2022;12
+548;Sistema Atepetaco (Miquizco + Viento + Mama Mia);Mexico;Puebla;-;11876,00;11876;0,00;0;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+547;Labyrinthe d'Antsarahaso;Madagascar;Andraafiamena;Analamera;11879,00;11879;0,00;0;0;Limestone;Atlas of the Great Caves and Karst of Africa Part 1;;
+546;Pixan Bel;Mexico;Quintana Roo;Tulum;11899,00;11899;0,00;0;0;Limestone;QRSS Long Caves List;2021;5
+537;Cueva Pitch;Mexico;-;-;12000,00;12000;0,00;0;0;Limestone;Eric Madelanine list;2006;7
+544;Räseau de Lavayssiere;France;-;-;12000,00;12000;0,00;0;0;Limestone;Eric Madelanine list;2006;7
+534;Sistema Chango Mistico;Mexico;Quintana Roo;Tulum;12006,00;12006;0,00;0;0;Limestone;QRSS Long Caves List;2021;5
+532;Andriafiabe;Madagascar;Ambilobe;Ankarana;12030,00;12030;0,00;0;0;Limestone;Eric Madelanine list;;
+524;Gardner's Gut;New Zealand;South Island;Waitomo;12197,00;12197;0,00;0;0;Limestone;Eric Madelanine list;2016;1
+523;Atlixicaya;Mexico;-;-;12200,00;12200;0,00;0;0;Limestone;Eric Madelanine list;2006;7
+522;Gua Salukkan Kallang;Indonesia;Sulawesi Selatan;Kappang;12260,00;12260;0,00;0;0;Limestone;Caves of Malaysia;2017;6
+517;Mactingol Cave;Philippines;Samar Island;-;12300,00;12300;0,00;0;0;Limestone;Atlas of the Great Caves and Karst of Southeast Asia P211;2021;10
+507;Whistling Cave;USA;Indiana;Lawrence;12568,98;12568;0,00;0;0;Limestone;Long cave list for Indiana, Indiana Cave Survey;2017;3
+505;Lee Cave;USA;Kentucky;Edmonson;12580,24;12580;0,00;0;0;Limestone;CRF;1987;8
+489;Cueva del Carcabon;Spain;Cantabria;Sierra de Homijo;12992,00;12992;0,00;0;0;Limestone;Jose Luis Membrado e-mail;2022;8
+481;Sistema de Joblegïn;Spain;Cantabria;Reocin;13000,00;13000;0,00;0;0;Limestone;Jose Luis Membrado e-mail;2021;2
+482;Okshola-Kristihola;Norway;-;Fauske;13000,00;13000;0,00;0;0;Limestone;David stPierre;2016;6
+476;Sistema de Pozalaqgua;Spain;Burgos/Araba;Sierra Salvada;13036,00;13036;0,00;0;0;Limestone;Jose Luis Membrado e-mail;2021;2
+474;?piljski sustav Panjkov ponor - Mu?kinja - Varicakova;Croatia;Nova Kr?ija;Kurdun;13052,00;13052;0,00;0;0;Limestone;Aida Bari?ic e-mail;2022;6
+473;Sistema Yaxchen East;Mexico;-;-;13090,00;13090;0,00;0;0;Limestone;Eric Madelanine list;2006;7
+464;Cueva de el Tobazo;Spain;Cantabria;Valderredible;13256,00;13256;0,00;0;0;Limestone;Pepe Membrado e-mail;2025;1
+462;Tham Thon-Tham Houey Sam Boun;Laos;Khammouane;Thakhek;13309,00;13309;0,00;0;0;Limestone;Caves of Malaysia;;
+452;Anjohy Kibojenjy;Madagascar;Bemaraha;Bekopaka;13717,00;13717;0,00;0;0;Limestone;Atlas of the Great Caves and Karst of Africa Part 1 P164;2009;7
+450;AIXA-Ibarrengo;Spain;Guipuzkoa;Itziar;13754,00;13754;0,00;0;0;Limestone;Jose Luis Membrado e-mail;2021;2
+443;Webster Cave Complex;USA;Kentucky;Breckenridge;13972,32;13972;0,00;0;0;Limestone;Ben Tobin WCCSG e-mail;2016;6
+439;gruta de Almonda;Portugal;-;-;14000,00;14000;0,00;0;0;Limestone;Eric Madelanine list;2016;1
+434;Fuchslabyrinth;Germany;Badem-Wurittenburg;-;14261,00;14261;0,00;0;0;Limestone;Andreas Wolf List of Longest Caves in Germany;2016;12
+424;Complejo Piscarciano-Vacas-Arenas;Spain;Burgos;Haz de Arreba;14642,00;14642;0,00;0;0;Limestone;Jose Luis Membrado e-mail;2021;2
+412;Gratta Su Bentu - Sa Oche;Italy;Sardinia;Nuoro;15000,00;15000;0,00;0;0;Limestone;http://www.Class.del.g.piulunghe/profon.d'Italia;2017;6
+414;Sistema Constantino;Cuba;Pinar del Rio;-;15000,00;15000;0,00;0;0;Limestone;WLCL;;
+410;Megamania Cave;New Zealand;South Island;Heaphy Valley;15007,00;15007;0,00;0;0;Limestone;Lindsay Main NZ Speleological Soc. Info Officer;2022;8
+408;Tham Xe Bang Fai;Laos;Khammouane;Thakhek;15180,00;15180;0,00;0;0;Limestone;Caves of Malaysia;2009;7
+406;Cueva de Alpazat;Mexico;Puebla;-;15200,00;15200;0,00;0;0;Limestone;http://www.amcs-pubs.org/longanddeep.html;2016;1
+404;Boqueir∆o;Brazil;Bahia;Carinhanha;15240,00;15240;0,00;0;0;Limestone;As Maiores Cavernas Do Basil;2020;1
+403;Hang Vom;Vietnam;Quang Binh;Phong Nha-Ke Bang;15310,00;15310;0,00;0;0;Limestone;Peter MacNab e-mail;2008;7
+393;Hidden River Cave;USA;Kentucky;Hart;15871,76;15871;0,00;0;0;Limestone;Dave West email;2024;7
+380;Blauhïhlensystem;Germany;Badem-Wurittenburg;-;16180,00;16180;0,00;0;0;Limestone;Kurt Kohler e-mail;2016;12
+372;Gruta do Padre;Brazil;Bahia;Santana;16390,00;16390;0,00;0;0;Limestone;As Maiores Cavernas Do Basil;2020;1
+373;Lapa S∆o Vicente l;Brazil;Goias;Sao Domingos;16390,00;16390;0,00;0;0;Limestone;As Maiores Cavernas Do Basil;2020;1
+367;James (Thousand Domes) Cave;USA;Kentucky;Edmonson;16495,78;16495;0,00;0;0;Limestone;Glenn Merrill;1984;7
+366;Lapa Doce ll;Brazil;Iraquara;Bahia;16500,00;16500;0,00;0;0;Limestone;As Maiores Cavernas Do Basil;2020;1
+360;Complesso Ispinigoli - S.Giovanni Su Anzu-Nurachi;Italy;Sardinia;Dorgali;17000,00;17000;0,00;0;0;Limestone;Speleologia N68P102-103;2016;6
+361;Katalehkhor Cave;Iran;Zanjan;-;17000,00;17000;0,00;0;0;Limestone;-;;
+362;Petroglyph Cave (part of the Caves Branch S.);Belize;-;-;17000,00;17000;0,00;0;0;Limestone;Tom Miller e-mail;2016;1
+357;Conjunto Santa Rita;Brazil;Iraquara;Bahia;17050,00;17050;0,00;0;0;Limestone;As Maiores Cavernas Do Basil;2020;1
+356;Tham Chom Ong System;Laos;Xai;Oudoaxay;17150,00;17150;0,00;0;0;Limestone;Eurospeleo Magazine N2P66;2009;7
+354;Duobing Dong;China;Guizhou;Xiuwen/Xifeng;17210,00;17210;0,00;0;0;Limestone;http://www.grottes-et-karsts-de-chine.org/npds/gkc_rcdev50.php?;2015;2
+347;Grotta del Bue Marino;Italy;Sardinia;Dorgali;17400,00;17400;0,00;0;0;Limestone;Speleologia N68P102-103;2016;6
+337;Goochland - Poplar Cave Complex;USA;Kentucky;Rockcastle;17992,47;17992;0,00;0;0;Limestone;Kentucky Speleo-Fest Guidebook;2016;6
+334;Cueva de Mairuelegorreta;Spain;Araba;Gorbea;18088,00;18088;0,00;0;0;Limestone;Jose Luis Membrado e-mail;2018;8
+333;Ambatoharanana;Madagascar;Ambilobe;Ankarana;18100,00;18100;0,00;0;0;Limestone;Atlas - Great Caves of the world;;
+327;Cueva del Saman;Venezuela;Edo Zulia;Fundo las Pis.;18200,00;18200;0,00;0;0;Sandstone;Franco Urbani;2017;6
+323;Rhar Bou Ma'za (Tafna River Cave);Algeria;Terni;Tlemcen range;18400,00;18400;0,00;0;0;Limestone;Atlas - Great Caves of the World;2017;6
+321;Complesso Mutera - Fantozzi;Italy;Piemonte;Ormea;18403,00;18403;0,00;0;0;Limestone;Speleologia N68P102-103;2016;6
+319;Wells Cave;USA;Kentucky;Pulaski;18501,02;18501;0,00;0;0;Limestone;NSS News V57N10P308;1999;10
+308;Wit Tamdoun;Morocco;Agadir;Immouzer;19128,00;19128;0,00;0;0;Limestone;Caves & Caving I84;;
+298;Cueva del Tornero;Spain;Guadalajara;Alto Tajo;20000,00;20000;0,00;0;0;Limestone;Jose Luis Membrado e-mail;20223;4
+290;Pielklieng-Sielkan Pouk river cave;India;Meghalaya;Jaintia Hills;20522,00;20522;0,00;0;0;Limestone;Descent N275P15;2009;7
+276;Krem Tyngheng/Diengjem;India;Meghalaya;Jaintia Hills;21775,00;21775;0,00;0;0;Limestone;Descent 243 P33;2017;6
+273;Abisso Bueno Fonteno;Italy;Lombardia;Fonteno;22000,00;22000;0,00;0;0;Limestone;Speleologia N68P102-103;2016;6
+270;Baishui Dong;China;Guizhou;Jiang Kou;22450,00;22450;0,00;0;0;Limestone;http://www.grottes-et-karsts-de-chine.org/npds/gkc_rcdev50.php?;2016;8
+262;Conjunto Sao Mateus/Imbira;Brazil;Goias;Sao Domingos;22630,00;22630;0,00;0;0;Limestone;As Maiores Cavernas Do Basil;2020;1
+255;Cuevas de Bellamar;Cuba;Matanzas;-;23000,00;23000;0,00;0;0;Limestone;http://www.ecured.cu/index.php/Cuevas_de_Bellamar;2016;10
+251;Sistema Crustacea;Mexico;Quintana Roo;Tulum;23183,00;23183;0,00;0;0;Limestone;CINDAQ annual project report;2024;2
+250;Cueva del Soplao;Spain;Cantabria;Sierra de Arnero;23253,00;23253;0,00;0;0;Limestone;Jose Luis Membrado e-mail;2019;10
+243;Akkado;Japan;Iwate;-;23700,00;23700;0,00;0;0;Limestone;-;2016;5
+244;Akkado (Akiyoshido);Japan;Iwate;-;23700,00;23700;0,00;0;0;Limestone;-;;
+238;Cueva Guerta;Spain;Asturias;Pena Biguere;23919,00;23919;0,00;0;0;Limestone;Jose Luis Membrado e-mail;2025;3
+233;Foglepole Cave;USA;Illinois;Monroe;24140,16;24140;0,00;0;0;Limestone;NSS News V56N4P114;1998;4
+227;Complejo de Orbaneja del Castillo;Spain;Burgos;-;25000,00;25000;0,00;0;0;Limestone;Jose Luis Membrado e-mail;2021;1
+212;Gran Sistema Cavernaio de Fuentes;Cuba;Pinae del Rio;Sierra de Mesa;26000,00;26000;0,00;0;0;Limestone;The International Caver #8;2017;6
+213;Perdidos (sis.cavernario de los);Cuba;Pinar del Rio;S. del Roario;26000,00;26000;0,00;0;0;Limestone;Speleolgia;2017;5
+195;Thornhill Cave System;USA;Kentucky;Breckenridge;27732,22;27732;0,00;0;0;Limestone;Arron Reed Louisville Grotto e-mail;2016;1
+194;Old Homestead Cave;Australia;Western Australia;Nullarbor Plain;28000,00;28000;0,00;0;0;Limestone;International Caver No.7;2017;6
+181;Tham Nam Non System;Laos;Khammouane;Thakhek;29500,00;29500;0,00;0;0;Limestone;Caves of Malaysia;2009;7
+173;Krem Liat Prah/Um IM/Labbit M /RUBONG;India;Meghalaya;Jaintia Hills;31279,00;31279;0,00;0;0;Limestone;Descent N275P15;;
+165;Terikan System (Rising, East, West);Malaysia;Sarawak;Mulu;32572,00;32572;0,00;0;0;Limestone;Mulu Caves Project;2019;8
+154;Majaguas-Cantera (sis.caverna.);Cuba;Pinar del Rio;S.de San Carlo;34000,00;34000;0,00;0;0;Limestone;The International Caver;2017;6
+142;Cueva de Udias;Spain;Cantabria;-;35196,00;35196;0,00;0;0;Limestone;Jose Luis Membrado e-mail;2021;11
+126;Sistema de Pan de Azucar;Cuba;Pinar del Rio;S.del Rosario;38000,00;38000;0,00;0;0;Limestone;The NSS News V57N10P300;1999;10
+99;Santo Tomas (gran caverna de);Cuba;Pinar del Rio;S. de Quemadas;46000,00;46000;0,00;0;0;Limestone;The NSS News V57N10P300;1999;10
+96;Sistema Garra de Jaguar (Jaguar Claw);Mexico;Quintana Roo;Tulum;47088,00;47088;0,00;0;0;Limestone;QRSS Long Caves List;2021;11
+89;Sistema Itxina'pe Sarea;Spain;Bizkaia;Gorbea;49150,00;49150;0,00;0;0;Limestone;Jose Luis Membrado e-mail;2016;10
+76;Gr. Caverna de Palmarito;Cuba;Pinar del Rio;S. de Vinales;54000,00;54000;0,00;0;0;Limestone;Info CREI 2001 N10;2017;6
+70;Prometheus Cave System;Australia;Northern Territory;Judbarra-Gregory National Park;57000,00;57000;0,00;0;0;Limestone;Mark Sefton e-mail;2024;3
+56;Dingo Caves System;Australia;Northern Territory;Judbarra-Gregory National Park;66000,00;66000;0,00;0;0;Limestone;Mark Sefton e-mail;2024;3
+379;Sarah Furnace (Porter's) Cave;USA;Pennsylvania;Clarion;16221,00;16221;6,40;6;0;Limestone;Bert Ashbrook e-mail;2025;1
+564;Cueva Quebrada;Mexico;Quintana Roo;Tulum;11555,30;11555;9,40;9;0;Underwater;QRSS Long Caves List;2019;7
+671;D.C. Jester Cave System;USA;Oklahoma;Greer;10065,00;10065;10,70;10;0;Gypsum;Sue Bozeman;1988;3
+461;Orlova Chouka (Eagle Hammer);Bulgaria;Ruse;Danubian Plane;13437,00;13437;12,00;12;0;Limestone;Eric Madelanine list;2006;7
+91;Sistema Toh Ha;Mexico;Quintana Roo;Tulum;47746,00;47746;12,80;12;0;Underwater;QRSS Long Caves List;2019;7
+584;Sistema Cupul Ha (Underwater+Dry);Mexico;Quintana Roo;Tulum;11152,40;11152;14,00;14;0;Underwater;QRSS Long Caves List;2019;7
+575;Sistema MOAC;Mexico;Quintana Roo;Tulum;11369,30;11369;14,00;14;0;Underwater;QRSS Long Caves List;2019;7
+463;Sistema Nohoch Sac Tatich;Mexico;Quintana Roo;Tulum;13266,00;13266;14,30;14;0;Underwater;QRSS Long Caves List;2021;1
+466;Sistema Sac Kai (Paachi Nah);Mexico;Quintana Roo;Tulum;13209,00;13209;15,50;15;0;Underwater;QRSS Long Caves List;2019;7
+409;Sof Omar Holluca;Ethiopia;Bale;Ityopya;15100,00;15100;15,00;15;0;Limestone;Atlas - Great Caves of the World;;
+376;Sistema Doggi;Mexico;Quintana Roo;Felipe Carrillo Puerto;16307,80;16307;15,50;15;0;Underwater;QRSS Long Caves List;2019;7
+293;Anvil Cave (279);USA;Alabama;Morgan;20385,56;20385;15,54;15;0;Limestone;Alabama Cave Survey;1980;4
+8;Optymistychna (Optimisticheskaja);Ukraine;Ternopil;Borshchiv;264576,15;264576;15,00;15;0;Gypsum;Marc Ohms FB;;
+621;Sherfield's Cave;USA;Arkansas;Newton;10718,23;10718;17,68;17;0;Limestone;Doug Robertson;1992;6
+201;Sistema Sand Crack (Underwater);Mexico;Quintana Roo;Tulum;26746,00;26746;17,70;17;0;Underwater;QRSS Long Caves List;2019;7
+202;Sistema Sand Crack;Mexico;Quintana Roo;Tulum;26746,00;26746;17,70;17;0;Underwater;QRSS Long Caves List;2019;7
+577;Zarathustra Cave (Saltpeter);USA;Tennessee;Fentress;11313,69;11313;18,29;18;0;Limestone;Bill Dean;1986;7
+378;Sistema Kulogorskaya-Troya .;Russia;Arkhangelsk;Pinega;16248,00;16248;18,00;18;0;Gypsum;Karst and cave Pinega's - Victor Malkov, Evgeny Gurkalo;2017;6
+221;Sistema Nohoch Pek - Muk K'in;Mexico;Quintana Roo;Tulum;25160,00;25160;18,60;18;0;Underwater;QRSS Long Caves List;2019;7
+216;Sistema Nohoch Pek - Muk K'in (Underwater);Mexico;Quintana Roo;Tulum;25437,00;25437;18,60;18;0;Underwater;QRSS Long Caves List;2019;7
+674;Sistema Muul Three;Mexico;Quintana Roo;Tulum;10052,90;10052;19,20;19;0;Underwater;QRSS Long Caves List;2019;7
+579;Manantial del Toro;Dominican Republic;La Altagracia;Boca de Yuma;11270,00;11270;19,00;19;0;Underwater;Olivier Testa e-mail;2020;3
+528;Yum Kaax;Mexico;Quintana Roo;Akumal;12107,00;12107;20,00;20;0;Limestone;Jan Sirotek email;2024;1
+263;Kryshtaleva (Kristal'naja);Ukraine;Ternopil;Borshchiv;22610,00;22610;20,00;20;0;Gypsum;cavemlynky@gmail.com;2017;9
+79;Mlynky;Ukraine;Ternopil;Chortkiv;52923,00;52923;20,00;20;0;Gypsum;cavemlynky@gmail.com;2019;1
+558;Paxtons Cave;USA;Virginia;Alleghany;11683,84;11683;21,64;21;0;Limestone;VSS Long Cave List;2015;2
+390;Luraville / Telford System;USA;Florida;Suwanee;15991,64;15991;21,95;21;0;Underwater;Andy Higgie e-mail;2022;2
+43;Cova des Pas de Vallgornera;Spain;Balearics;Llucmajor;74242,00;74242;21,00;21;0;Limestone;Jose Luis Membrado e-mail;;
+494;Sistema Pandora;Mexico;Quintana Roo;Tulum;12891,00;12891;22,60;22;0;Underwater;QRSS Long Caves List;2021;1
+18;Bullita Cave System (Burke's Back Yard);Australia;Northern Territory;Judbarra-Gregory National Park;129700,00;129700;23,00;23;0;Limestone;Mark Sefton e-mail;2024;3
+478;Climax Cave;USA;Georgia;Decatur;13035,69;13035;24,38;24;0;Limestone;Map;2016;5
+418;Sistema Dos Pisos;Mexico;Quintana Roo;Tulum;14756,00;14756;24,40;24;0;Underwater;QRSS Long Caves List;2019;7
+208;Powell's Cave System;USA;Texas;Menard;26145,50;26145;24,08;24;0;Limestone;Texas Speleological Survey via Jerry Atkinson e-mail;2021;10
+196;Coldwater Cave;USA;Iowa;Winneshiek;27366,89;27366;24,38;24;0;Limestone;Larry Welch e-mail;2016;7
+83;Sistema Pool Tunich (Under Water + Dry);Mexico;Quintana Roo;Tulum;50401,00;50401;24,00;24;0;Underwater;QRSS Long Caves List;;
+543;Igue de la Vayssiäre;France;Occitanie;-;12000,00;12000;25,00;25;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+460;Sistema Camilo;Mexico;Quintana Roo;Tulum;13442,00;13442;25,00;25;0;Underwater;QRSS Long Caves List;2019;7
+425;Cova de sa Gleda - Camp des Pou.;Spain;Balearics;Manacor;14620,00;14620;25,00;25;0;Underwater;Jose Luis Membrado e-mail;2021;3
+158;Sistema Nohoch Kai;Mexico;Quintana Roo;Tulum;33505,00;33505;25,90;25;0;Underwater;QRSS Long Caves List;2019;7
+25;Entrada Boca Paila;Mexico;Quintana Roo;Tulum;111152,00;111152;26,80;26;0;Underwater;QRSS Long Caves List;2019;7
+477;Blanchard Springs Cave;USA;Arkansas;Stone;13035,69;13035;27,40;27;0;Limestone;Dave Bunnell;2001;5
+188;Sistema Caterpillar;Mexico;Quintana Roo;Felipe Carrillo Puerto;28253,00;28253;27,10;27;0;Underwater;QRSS Long Caves List;2019;7
+587;Sistema Chac Mol (Underwater+Dry);Mexico;Quintana Roo;Tulum;11108,00;11108;28,30;28;0;Underwater;QRSS Long Caves List;2019;7
+395;Entrada Caapechen (Cenote Manatee);Mexico;Quintana Roo;Tulum;15638,00;15638;28,00;28;0;Underwater;QRSS Long Caves List;2019;7
+364;Cenote Zapote;Mexico;Quintana Roo;Tulum;16768,00;16768;28,00;28;0;Underwater;QRSS Long Caves List;2019;7
+271;Sistema Ponderosa (Under Water & Dry);Mexico;Quintana Roo;Tulum;22167,00;22167;28,40;28;0;Underwater;QRSS Long Caves List;2019;7
+136;Lost River Cave System;USA;Indiana;Orange;35727,44;35727;28,65;28;0;Limestone;Long cave list for Indiana, Indiana Cave Survey;2017;3
+116;Sistema Zapote - Camilo;Mexico;Quintana Roo;Tulum;39004,00;39004;28,00;28;0;Underwater;QRSS Long Caves List;2019;7
+669;Sistema Taj Mahal (Underwater+Dry);Mexico;Quintana Roo;Tulum;10094,00;10094;29,90;29;0;Underwater;QRSS Long Caves List;2019;7
+631;Perry Water Cave;USA;Texas;Real;10535,00;10535;29,70;29;0;Limestone;Texas Speleological Survey via Jerry Atkinson e-mail;2022;1
+400;Springs Cave, Jackson Blue;USA;Florida;Jackson;15436,00;15436;30,50;30;0;Underwater;Ben Martinez e-mail;2018;4
+218;Krem Puri (Sandstone);India;Meghalaya;Khasi Hills;25317,00;25317;30,00;30;0;Sandstone;Descent N275P15;;
+490;Powder Mill Creek Cave;USA;Missouri;Shannon;12950,39;12950;31,39;31;0;Limestone;M.S.S. Baker;2015;2
+397;Sullivan Cave;USA;Indiana;Lawrence;15501,20;15501;32,00;32;0;Limestone;Long cave list for Indiana, Indiana Cave Survey;2017;3
+64;Sistema Xunaan Ha (Underwater+Dry);Mexico;Quintana Roo;Tulum;60445,00;60445;33,80;33;0;Underwater;QRSS Long Caves List;2015;2
+441;Tapolcai-Barlangrendszer;Hungary;-;-;14000,00;14000;34,80;34;0;Limestone;www.ariadneegyesulet.hu;2017;6
+27;Sistema K'oox Baal - Sistema Tux Kupaxa (Underwater+Dry);Mexico;Quintana Roo;Tulum;103100,00;103100;34,40;34;0;Underwater;QRSS Long Caves List;;
+392;Sistema Poloma;Belize;Ambergris Caye;;15916,40;15916;35,10;35;0;Underwater;Arielle Ginsberg email;2023;11
+258;Grotte de Neuvon;France;Cote-d'Or;Plom.-les-Dij.;22949,00;22949;35,00;35;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+16;Ozerna;Ukraine;Ternopil;Borshchiv;140490,00;140490;35,00;35;0;Gypsum;Vyacheslav Apostolyuk;2017;9
+394;Dunbar Cave - Roy Woodard System (Saltpeter);USA;Tennessee;Montgomery;15852,04;15852;36,27;36;0;Limestone;Tony Groves e-mail;2016;9
+309;Sistema del Faro-Isla de Mona;Puerto Rico;Isla de Mona;Mayaguez;19100,00;19100;36,00;36;0;Limestone;Marc Ohms e-mail;2017;4
+294;Gradys (Mammoth River) Cave System;USA;Kentucky;Hart;20277,73;20277;36,58;36;0;Limestone;Carbide Caver V7I9P111;1998;10
+430;Duncan Field System;USA;Oklahoma;Adair;14355,35;14355;37,80;37;0;Limestone;Keith (Andy) Harris e-mail;2017;4
+161;Honey Creek Cave;USA;Texas;Comal;33295,00;33295;37,90;37;0;Limestone;Texas Speleological Survey via Jerry Atkinson e-mail;2022;1
+468;Corra-Lynn;Australia;-;-;13200,00;13200;38,00;38;0;Limestone;Eric Madelanine list;2006;7
+660;Grotte de Trabuc;France;Bourgogne-Franche-Com;-;10206,00;10206;40,00;40;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+488;Räseau Trou qui Fume - Grotte des Duffaits;France;Nouvelle-Aquitaine;-;13000,00;13000;40,00;40;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+52;Botovskaya;Russia;Lrkutsk;Sredne;67747,00;67747;40,00;40;0;Limestone;Alexander Osinzev e-mail;;
+670;Spider Cave (C.C.N.P.);USA;New Mexico;Eddy;10091,30;10091;42,10;42;0;Limestone;Paul Burger;2024;2
+446;Cassell Cave System;USA;West Virginia;Pocohontas;13872,55;13872;42,67;42;0;Limestone;Gangsta Mappers;2017;10
+335;Crumps Spring Cave;USA;Kentucky;Hart;18025,00;18025;42,67;42;0;Limestone;Ronnie Harrison e-mail;2019;3
+296;Grotte d'En Gorner;France;Pyrenees-Orientales;Conflent;20100,00;20100;42,00;42;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+259;Rimstone River Cave;USA;Missouri;Perry;22852,68;22852;42,67;42;0;Limestone;M.S.S. Walsh;2015;2
+44;Binkley's Cave System;USA;Indiana;Harrison;74190,80;74190;42,67;42;0;Limestone;Gary Roberson e-mail;2024;9
+391;Snail Shell Cave System;USA;Tennessee;Rutherford;15974,35;15974;43,89;43;0;Limestone;Jeff Sims;1986;7
+106;Moore Cave System (Berome & Tom);USA;Missouri;Perry;42077,80;42077;44,81;44;0;Limestone;Chad McCain e-mail;2024;1
+525;Haws Spring Cave;USA;Tennessee;Cannon;12192,39;12192;45,72;45;0;Limestone;TCS;1996;1
+495;Räseau Camelot;France;Nouvelle-Aquitaine;-;12750,00;12750;45,00;45;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+232;Groaning Cave;USA;Colorado;Garfield;24140,16;24140;45,42;45;0;Limestone;Derek Bristol e-mail;2016;8
+215;Mystery Cave System;USA;Missouri;Perry;25495,23;25495;45,72;45;0;Limestone;M.S.S. Walsh;2015;2
+503;Old Bellamy (Derekson)(Santa Fe River Rise) Cave Sys.;USA;Florida;Alachua;12657,49;12657;48,77;48;0;Underwater;Die langsten Unterwasserhohlensysteme der welt, Oliver Knab;2016;6
+324;Beacon Woods - Waynes World System (School Sink);USA;Florida;Pasco;18288,59;18288;48,77;48;0;Underwater;Die langsten Unterwasserhohlensysteme der welt, Oliver Knab;2016;6
+155;Hidden River System (Hicks Cave);USA;Kentucky;Hart;33957,16;33957;48,77;48;0;Limestone;Carbide Caver V7I10P111;1998;10
+611;M2 Blue;USA;Florida;;10822,00;10822;50,00;50;0;Underwater;Andy Pitkin FB;2022;1
+377;Tham Kon Nam/Tham Hang Phung/Tham Luong;Laos;Boualapha;Khammouane;16300,00;16300;50,00;50;0;Limestone;Peter MacNab FB;2009;7
+349;Reseau du Rupt du Puits;France;Meuse;Barrois;17400,00;17400;50,00;50;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+24;Marosakabe System;Madagascar;Mahajaanga;Soalala;113019,00;113019;50,00;50;0;Limestone;http://grenoble.sibert.fr/album/crei/marosakabe_2018_extrait.pdf;2022;12
+23;Toca da Boa Vista;Brazil;Bahia;Campo Formoso;114000,00;114000;50,00;50;0;Limestone;As Maiores Cavernas Do Basil;2020;1
+231;Cave Creek Cave System;USA;Kentucky;Pulaski;24156,25;24156;51,82;51;0;Limestone;COG Squeaks;2016;5
+352;Blowhole (Nichole's) Cave;USA;Tennessee;Cannon;17233,90;17233;52,43;52;0;Limestone;Derek Wolfe e-mail;2020;2
+246;Big Horn - Horsethief Cave System;USA;Wyoming / Montana;Bighorn;23520,56;23520;52,12;52;0;Limestone;Even Gehring e-mail;2015;2
+550;Lineater (Stevenson Spring);USA;Florida;Hamilton;11851,00;11851;53,30;53;0;Underwater;Andy Pitkin FB;2022;1
+552;Grayson Gunnar Cave;USA;Kentucky;Wayne;11785,23;11785;54,86;54;0;Limestone;Harry Goepel FB;2022;9
+30;Zolushka;Ukraine / Moldova;Briceni/Cernivci;Nowoselyzja;92080,00;92080;54,00;54;0;Gypsum;Igor Teleshman e-mail;;
+84;Crevice Cave;USA;Missouri;Perry;50174,00;50174;55,50;55;0;Limestone;Chad McCain e-mail;2024;1
+350;Kona Mala Cave;USA;Hawaii;Hawaii;17341,00;17341;56,50;56;0;Lava;ˇTomislav Gracanin files;2014;1
+261;Bone - Norman Cave System;USA;West Virginia;Greenbrier;22720,72;22720;56,69;56;0;Limestone;Bill Douty e-mail;1997;12
+197;Big Bat Cave;USA;Kentucky;Breckenridge;27278,05;27278;56,63;56;0;Limestone;Joe Walko email;2024;1
+20;Helms Deep;USA;Tennessee;Perry;118399,40;118399;56,70;56;0;Limestone;Hal Love email;2025;4
+2;Sistema Ox Bel Ha;Mexico;Quintana Roo;Tulum;496804,00;496804;57,30;57;0;Underwater;CINDAQ annual project report;2024;2
+633;Doolin Cave;United Kingdom;-;Co. Clare;10500,00;10500;60,00;60;0;Limestone;www.ukcaves.co.uk/all-longest;2021;5
+634;Mossdale Caverns;United Kingdom;-;Northern Dales;10500,00;10500;60,00;60;0;Limestone;www.ukcaves.co.uk/all-longest;2021;5
+568;Marble Arch - Upper Cradle - Lower Cradle - Prod's Pot - Cascades Rising;United Kingdom;-;Co.Fermanagh;11500,00;11500;60,00;60;0;Limestone;www.ukcaves.co.uk/all-longest;2021;5
+542;Grotte de Fontrabiouse;France;Occitanie;-;12000,00;12000;60,00;60;0;Gypsum;Liste des cavites naturelles les plus longues de France;2022;6
+465;Hudgill Burn Mine Caverns (part mine);United Kingdom;-;Northern Dales;13244,00;13244;60,00;60;0;Limestone;www.ukcaves.co.uk/all-longest;2021;5
+420;Diros Cave;Greece;Peloponnese;Laconia;14700,00;14700;60,00;60;0;Limestone;Panagiotis Papadakos email;2024;10
+183;Windy Mouth (Wind) Cave;USA;West Virginia;Greenbrier;29145,22;29145;60,96;60;0;Limestone;Nick Sockiy FB;2021;12
+103;Cumberland Caverns (Saltpeter);USA;Tennessee;Warren;44443,64;44443;60,96;60;0;Limestone;Charles Cole;1992;3
+565;Farmers System - 1;USA;Kentucky;Pulaski;11553,48;11553;61,57;61;0;Limestone;Darrell Adkins e-mail;2016;1
+146;Toca da Barriguda;Brazil;Bahia;-;35000,00;35000;61,00;61;0;Limestone;As Maiores Cavernas Do Basil;2020;1
+535;Helictite Cave;USA;Virginia;Highland;12002,00;12002;62,67;62;0;Limestone;Nathan Farrar e-mail;2018;1
+653;Sistema la Vieya - Los Quesos;Spain;Asturias;Picos de Europa;10300,00;10300;63,00;63;0;Limestone;Jose Luis Membrado e-mail;2021;5
+562;Peacock Cave I-II System;USA;Florida;Suwanee;11587,28;11587;64,01;64;0;Underwater;Richard Blackburn e-mail;2016;6
+498;Unthanks Cave;USA;Virginia;Lee;12713,82;12713;64,31;64;0;Limestone;2009 NSS/ICS Kerrville Texas;2016;7
+423;Rice Cave (Saltpeter);USA;Tennessee;Van Buren;14645,00;14645;64,01;64;0;Limestone;Tenn.Cave Survey;2021;10
+382;Vinegar Ridge (Buckingham Palace) Cave;USA;Kentucky;Hart;16093,00;16093;64,31;64;0;Limestone;Ronnie Harrison e-mail;2019;3
+127;Blackfathom River Cave System;USA;Missouri;Ste.Genevieve;37712,60;37712;65,00;65;0;Limestone;Chad McCain e-mail;2024;1
+475;Wolf River (Jaguar) Cave (Saltpeter);USA;Tennessee;Fentress;13042,12;13042;67,36;67;0;Limestone;Kristen Bobo e-mail;2016;10
+239;Torca de la Vaca - Wild Mare;Spain;Cantabria;Entrambasaguas;23914,00;23914;67,00;67;0;Limestone;Juan Corrin e-mail;2021;1
+469;Bowman's Pit - Skert Well;USA;Kentucky;Wayne;13196,62;13196;68,88;68;0;Limestone;Lee Florea e-mail;2019;7
+433;Sistema Murena - Aak Kimin;Mexico;Quintana Roo;Tulum;14268,60;14268;68,60;68;0;Underwater;QRSS Long Caves List;2019;7
+398;Big Bone Cave (Saltpeter);USA;Tennessee;Van Buren;15493,15;15493;68,88;68;0;Limestone;John Smyre;1984;6
+163;Carroll Cave;USA;Missouri;Camden;32686,00;32686;68,28;68;0;Limestone;Bob Lerch e-mail;2019;3
+130;The Hole (Boggs Cave);USA;West Virginia;Greenbrier;37019,74;37019;68,58;68;0;Limestone;Bill Balfour;1991;9
+120;Xanadu Cave System;USA;Tennessee;Fentress;38724,04;38724;69,19;69;0;Limestone;Tenn.Cave Survey;2015;2
+329;Duhlata (D(a)(ou)hklata);Bulgaria;Pernik;Vitoshaq;18200,00;18200;70,00;70;0;Limestone;Caves of Bulgaria;2016;7
+642;Maaras;Greece;Macedonia;Drama;10441,00;10441;71,00;71;0;Limestone;Panagiotis Papadakos email;2024;10
+530;Long Hollow (Dyke's/Mud-&-Slime) Cave System;USA;Kentucky;Pulaski;12065,25;12065;71,63;71;0;Limestone;Mark Turner e-mail;1998;11
+428;Pozo Azul;Spain;Burgos;Covanera;14415,00;14415;71,00;71;0;Underwater;Jose Luis Membrado e-mail;2021;3
+281;Tham Pha Soung System (Tham Hay);Laos;Khammouane;Ban Phondou;21012,00;21012;71,00;71;0;Limestone;Liviu Valenas e-mail;2009;7
+599;Tham Luang Nang Non;Thailand;Chiang Rai;Mae Sai;10982,00;10982;73,00;73;0;Limestone;Martin Ellis e-mail;2023;3
+455;Acme Quarry Cave System;USA;West Virginia;Greenbrier;13600,57;13600;73,46;73;0;Limestone;Ron Fulcher e-mail;2016;7
+370;Sistema Roraima Sur (Ojos Cristal Cave System);Venezuela;Bolivar;Roraima Tepui;16400,00;16400;73,00;73;0;Sandstone;2009 NSS/ICS Kerrville Texas;;
+114;Sloans Valley Cave System;USA;Kentucky;Pulaski;39654,24;39654;73,15;73;0;Limestone;The International Caver N19P23;1997;5
+200;Reseau de Lachambre - Estacio Vella;France;Pyrenees-Orientales;Conflent;26815,00;26815;74,00;74;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+145;Reseau Andre Lachambre (grotte d'Embulla);France;Pyrenees-Orientales;Conflent;35000,00;35000;74,00;74;0;Limestone;D'apres Christophe Levillain;2017;6
+596;Chinn Springs Cave;USA;Arkansas;Indpendence;10991,82;10991;76,81;76;0;Limestone;Jeff Bartlett e-mail;2016;3
+419;Ludingtons Cave;USA;West Virginia;Greenbrier;14709,40;14709;76,20;76;0;Limestone;Joseph Caldwell l;2016;1
+240;Benedicts (Persinger) Cave;USA;West Virginia;Greenbrier;23898,76;23898;77,42;77;0;Limestone;WVASS Database;2016;6
+432;Falls Cave;USA;Arizona;Coconino;14271,00;14271;78,70;78;0;Limestone;Paul Burger;2023;2
+422;Wyandotte Cave;USA;Indiana;Crawford;14645,03;14645;78,03;78;0;Limestone;Long cave list for Indiana, Indiana Cave Survey;2017;3
+204;Reseau de Fuilla - Canalettes;France;Pyrenees-Orientales;Conflent;26500,00;26500;79,00;79;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+371;Sustav Dulin ponor - Medvedica;Croatia;Hrvatska;Ogulin;16396,00;16396;83,00;83;0;Limestone;http://public.srce.hr/speleo/karta.html;2017;6
+648;Hick's Cave;USA;New Mexico;Eddy;10364,18;10364;84,43;84;0;Limestone;Ellen Trautner e-mail;2022;7
+438;Apocalypse Pothole;South Africa;Western Transvaal;Carletonville;14000,00;14000;85,00;85;0;Limestone;Eric Madelanine list;2006;7
+301;Dry Cave;USA;New Mexico;Eddy;19669,40;19669;85,04;85;0;Limestone;Stan Allison via Pete;2016;3
+224;Mountain Eye Cave System (Saltpeter);USA;Tennessee;Fentress;25084,84;25084;85,34;85;0;Limestone;Tenn. Cave Survey;1987;3
+655;Abime de Bramabiau;France;Occitanie;-;10240,00;10240;87,00;87;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+573;McFail's Cave;USA;New York;Schoharie;11411,86;11411;89,92;89;0;Limestone;Simeon Warner e-mail;2016;8
+426;Systeme de Sauvas-Cocaliere;France;Ardeche;Bas-Vivarais;14500,00;14500;89,00;89;0;Limestone;Jean-Yves Bigot;2016;1
+639;Sistema El Puente;Mexico;Quintana Roo;Tulum;10473,80;10473;90,20;90;0;Underwater;QRSS Long Caves List;2019;7
+471;Cuyler Cave;USA;Tennessee;Sevier;13132,25;13132;91,44;91;0;Limestone;Steve Pierce;1986;7
+383;Perkins Cave;USA;Virginia;Washington;16088,61;16088;91,44;91;0;Limestone;Virginia Speleological Survey;2016;6
+479;Herbstlabyrinth-Adventhîhle-system;Germany;Hesse;-;13010,00;13010;92,00;92;0;Limestone;Andreas Wolf List of Longest Caves in Germany;;
+54;Blue Spring Cave;USA;Tennessee;White;67246,40;67246;93,57;93;0;Limestone;Mike Rodgers email;2025;4
+189;Fitton (Beauty) Cave;USA;Arkansas;Newton;28163,52;28163;95,40;95;0;Limestone;Scott House e-mail;2004;2
+55;Whigpistle System;USA;Kentucky;Edmonson;67206,20;67206;95,71;95;0;Limestone;Joel Despain e-mail;2024;7
+551;Sistema del Risco;Spain;Cantabria;Matienzo;11840,00;11840;96,00;96;0;Limestone;Juan Corrin e-mail;2023;1
+512;Stompbottom Cave;USA;Virginia;Tazewell;12440,23;12440;97,23;97;0;Limestone;VSS Long Cave List;2015;2
+646;Leang Assuloang;Indonesia;Sulawesi Selatan;Maros;10400,00;10400;98,00;98;0;Limestone;Atlas of the Great Caves and Karst of Southeast Asia P58;2017;6
+539;Tham Lo;Laos;Khammouane;Thakhek;12000,00;12000;100,00;100;0;Limestone;Atlas of the Great Caves and Karst of Southeast Asia P113;2017;6
+437;Slaughter Stream Cave;United Kingdom;South Wales;Forest of Dean;14000,00;14000;100,00;100;0;Limestone;Eric Madelanine list;2006;7
+168;Puerto Princesa Subterranean River (St.Pauls Underground River Cave);Philippines;Palawan Island;Palawan;32000,00;32000;100,00;100;0;Limestone;Wikipedia;;
+156;Culverson Creek Cave System;USA;West Virginia;Greenbrier;33680,35;33680;100,28;100;0;Limestone;WVASS Database;2016;6
+351;Portal-BoarHole System (Boartal);USA;West Virginia;Greenbrier;17252,17;17252;101,50;101;0;Limestone;WVACS;2022;1
+369;Reseau de la Couze (Correze);France;Correze;Causse de Martel;16426,00;16426;103,00;103;0;Limestone;Thierry Apriland via Yvonne e-mail;2016;1
+267;Pleasant Ridge Cave;USA;Tennessee;Cannon;22551,74;22551;103,63;103;0;Limestone;Hal Love email;2016;12
+133;Coral Cave System;USA;Kentucky;Pulaski;36306,80;36306;103,63;103;0;Limestone;Lee Florea e-mail;2015;2
+615;Trou du Vent;France;Nouvelle-Aquitaine;-;10800,00;10800;104,00;104;0;Gypsum;Liste des cavites naturelles les plus longues de France;2022;6
+514;PÖl-Vîlgy;Hungary;-;-;12400,00;12400;104,00;104;0;Limestone;Eric Madelanine list;2006;7
+628;Paul Penley Cave;USA;Virginia;Bland;10621,67;10621;105,46;105;0;Limestone;Virginia Speleological Survey;2016;5
+583;Gouffre de Pourpevelle;France;Bourgogne-Franche-Com;-;11169,00;11169;106,00;106;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+268;Jenolan System;Australia;NSW;-;22503,00;22503;106,00;106;0;Limestone;Mark Sefton e-mail;2016;7
+46;Wakulla Cave System;USA;Florida;Leon/Wakulla;72171,00;72171;106,68;106;0;Underwater;Casey McKinlay e-mail;2023;4
+237;Clearwell Caves (Part Mine);United Kingdom;England;Gloucestershire;24000,00;24000;107,00;107;0;Limestone;www.ukcaves.co.uk/all-longest;2017;6
+345;Lazareva Cave;Serbia;Central Serbia;Bor;17501,00;17501;108,00;108;0;Limestone;Robert Misic;2024;9
+641;New River Cave;USA;Virginia;Giles;10441,96;10441;109,42;109;0;Limestone;Dave West email;2024;7
+629;Tham Yai Nam Nao;Thailand;Phetchabun;Nam Nao;10597,00;10597;109,00;109;0;Limestone;Atlas of the Great Caves and Karst of Southeast Asia P259;2017;6
+645;Spipola-Aquafredda;Italy;-;-;10400,00;10400;110,00;110;0;Gypsum;Alexander Klimchouk Longest Gypsum caves of the world;2016;6
+624;Grotte de Han-sur-Lesse;Belgium;Namur;-;10693,00;10693;110,00;110;0;Limestone;pha@ceram.ciger.be;2017;6
+341;Charles Brewer Cave System (Quartzite);Venezuela;Bolivar;Churi Tepui;17800,00;17800;110,00;110;0;Sandstone;Venezuelan tepuis-their caves and biota;2018;2
+500;Grassy Cove Saltpetre Cave (Saltpeter);USA;Tennessee;Cumberland;12702,55;12702;111,86;111;0;Limestone;Deep Caves of TAG, John Stembel;2016;10
+10;Fisher Ridge Cave System;USA;Kentucky;Hart;215908,80;215908;111,70;111;0;Limestone;Chip Hopper e-mail;2024;5
+508;Camps Gulf Cave (Saltpeter);USA;Tennessee;Van Buren;12564,15;12564;112,17;112;0;Limestone;Deep Caves of TAG, John Stembel;2016;10
+292;Baradla-Barlang;Hungary;Borsod-Aba£j-ZemplÇn;"Aggtelek Karst;";20500,00;20500;112,00;112;0;Limestone;www.ariadneegyesulet.hu;2017;6
+175;Nunley Mtn.Cave System (Maria Angela Grotto);USA;Tennessee;Grundy;30577,50;30577;113,40;113;0;Limestone;Julianne Ramsey email;2025;1
+555;Lungib Can-Yawa;Philippines;Samar Island;Calbiga;11700,00;11700;114,00;114;0;Limestone;Atlas of the Great Caves and Karst of Southeast Asia P211;2022;8
+427;Skydusky Hollow Cave System (Newberry - Bane - Buddy Penley Cave);USA;Virginia;Bland;14484,10;14484;115,82;115;0;Limestone;Ed Devine;2021;11
+402;Leandras Cave;USA;Arizona;Coconino;15364,41;15364;115,21;115;0;Limestone;map at park Headquarters via Greg e-mail;2016;6
+234;Postojnska jama;Slovenia;Notranjska;Postojnski kras;24120,00;24120;115,00;115;0;Limestone;http://www.postojnska-jama.eu/en/news/2015/postojna-cave-extended-by-3-5-kilometres/;2022;6
+502;Legarices System (Argirocastro-Permet);Albania;Argirocastro;Permet;12700,00;12700;116,00;116;0;Limestone;Benassi A. (2024): Lengarices 2023. Inseguendo il soffio del Drago (Albania), Speleologia SSI, n¯89, pp.4-6;2024;10
+303;Stagebarn Crystal Cave;USA;South Dakota;Meade;19553,50;19553;116,92;116;0;Limestone;Derek Wolfe e-mail;2023;11
+209;Baradla barlang-Domica jaskyna ??;Slovakia / Hungary;Slovak / Aggtelek Karst;Kecovo - Josvafo;26065,00;26065;116,00;116;0;Limestone;P.Bella - P.Gruber e-mail;1988;10
+176;Baradla-Domica;Hungary;;ˇAggtelek Karst;30466,00;30466;116,00;116;0;Limestone;Peter Gruber e-mail;2017;6
+82;Benarat Caverns System (lubang Benerat);Malaysia;Sarawak;Mulu;50669,00;50669;116,00;116;0;Limestone;Mulu Caves Project;2019;8
+647;Complejo Urallaga;Spain;Bizkaia;Montes de Triano;10395,00;10395;118,00;118;0;Limestone;Jose Luis Membrado e-mail;2021;5
+4;Sistema Sac Actun (Nohoch Nah Chich, Aktun Hu) (Underwater+Dry);Mexico;Quintana Roo;Tulum;376700,00;376700;119,18;119;0;Underwater;QRSS Long Caves List;;
+328;Luweng Jaran System;Indonesia;Java Timur;Pacitan;18200,00;18200;120,00;120;0;Limestone;Caves of Malaysia;2017;6
+315;Hang khe Rhy;Vietnam;Quang Binh;Phong Nha-Ke Bang;18920,00;18920;120,00;120;0;Limestone;Peter MacNab e-mail;2008;7
+285;Perte de Massar;France;Aveyron;Causse de Limogne;21000,00;21000;120,00;120;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+609;Grotta Beppe Bessone;Italy;Piemonte;Monte Zucco;10839,00;10839;123,00;123;0;Limestone;https://catastogrotte-piemonte.net/caves-view-2383.html;2022;12
+318;Russell Cave (N.M.) (169);USA;Alabama;Jackson;18675,71;18675;123,70;123;0;Limestone;Jason Richards;2017;11
+178;Szepvolgyi System (Pal-volgy Cave);Hungary;Budapest;-;30100,00;30100;123,00;123;0;Limestone;International Journal of Speleology 44(2);2016;5
+607;Breathing Cave;USA;Virginia;Bath;10847,00;10847;124,00;124;0;Limestone;Gangsta Mappers;2018;1
+602;Weeki Wachee Spring;USA;Florida;Hernando;10930,00;10930;124,05;124;0;Underwater;Andrew Pitkin e-mail;2019;10
+1;Mammoth Cave System (N.P.);USA;Kentucky;Ed./Hart/Bar.;685581,00;685581;124,10;124;0;Limestone;Facebook;2022;12
+325;Igues de Goudou - Lacarriere;France;Lot;Causse de Gramat;18285,00;18285;126,00;126;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+228;Pestera Topolnita (Sistemul Topolnita-Epuran);Romania;Mehedinti;Podisul Mehedinti;25000,00;25000;127,00;127;0;Limestone;Romania-Natural;2020;4
+574;Cyclops Cave;USA;Virginia;Russell;11394,16;11394;129,24;129;0;Limestone;J.Christie e-mail;2016;6
+338;Stefanova;Slovakia;Nizke Tatry;Demanovske vrchy;17981,00;17981;129,00;129;0;Limestone;Pavel Herich e-mail;2016;7
+416;Kimble Pit;USA;West Virginia;Pendleton;14838,15;14838;130,14;130;0;Limestone;Corey Hackley e-mail;2021;11
+381;Kimble Pit Cave;USA;West Virginia;Pendelton;16141,70;16141;130,50;130;0;Limestone;GVKS(Germany Valley Karst Survey), WVASS;2024;12
+316;Cathedral-Falmouth System;USA;Florida;Suwannee;18893,70;18893;130,80;130;0;Underwater;Andrew Pitkin e-mail;2022;1
+125;Cueva de los Chorros;Spain;Albacete;Riopar;38000,00;38000;130,00;130;0;Limestone;Jose Luis Membrado eamil;2024;10
+449;Tham Phra Wang Daeng;Thailand;Phitsanulok;Noen Maprang;13789,00;13789;131,00;131;0;Limestone;Martin Ellis e-mail;2023;3
+457;Sistema del Alto Bueras;Spain;Cantabria;Bueras Voto;13515,00;13515;132,00;132;0;Limestone;Pedro Antonio Diaz Hoz e-mail;2022;1
+616;Mullamullang Cave (Chalk);Australia;Western Australia;Nullarbur Plain;10800,00;10800;134,00;134;0;Chalk;Atlas Great Caves of the World;2017;6
+662;Mearat Malcham;Israel;Mt. Sedom;;10200,00;10200;135,00;135;0;Salt;Yual Sobolyev FB;2019;7
+632;Grotte de Milandre;Switzerland;Bencourt;JU;10520,00;10520;135,00;135;0;Limestone;List of Swiss Long k& Deep Caves;2022;3
+567;Grotte du TM 71;France;Occitanie;-;11508,00;11508;137,00;137;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+291;Selminum Tem;Papua New Guinea;Western Prov.;Hindenburg Rng;20500,00;20500;137,00;137;0;Limestone;B.C.R.A. Bulletin;;
+249;Systeme de Foussoubie;France;Ardeche;Bas-Vivarais;23266,00;23266;138,00;138;0;Limestone;Xavier Robert e-mail;2019;4
+389;Poulnagollum - Poulelva;Ireland;South Wales;Co. Clare;16000,00;16000;140,00;140;0;Limestone;www.ukcaves.co.uk/all-longest;;
+363;Complejo Gesarribe;Spain;Guipuzkoa;O§ati;16891,00;16891;140,00;140;0;Limestone;Jose Luis Membrado e-mail;2025;3
+331;Gouffre des Vitarelles;France;Occitanie/Lot/Gramat;Gramat;18156,00;18156;141,00;141;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+310;Borne aux Cassots;France;Jura;Nevy-sur-Seile;19072,00;19072;144,00;144;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+214;Rumbling Falls Cave.;USA;Tennessee;Van Buren;25895,95;25895;144,48;144;0;Limestone;Marion O.Smith per TCS;2015;2
+257;Sistema de Cubija (North Vega System);Spain;Cantabria;Matienzo;22949,00;22949;147,00;147;0;Limestone;Juan Corrin e-mail;2023;1
+61;Organ Cave System;USA;West Virginia;Greenbrier;61882,50;61882;148,13;148;0;Limestone;WVASS Database;2016;5
+566;Sistema Corona;Mexico;Tamaulipas;Villa Hidalgo;11529,00;11529;149,00;149;0;Limestone;Peter Sprouse email;2023;1
+167;Gap Cave System (Cudjo's) (C.G.N.H.P.);USA;Virginia;Lee;32000,00;32000;149,66;149;0;Limestone;Bob Gulden (CRF);2019;4
+515;Grotte du Banquier;France;Occitanie;-;12400,00;12400;150,00;150;0;Gypsum;Liste des cavites naturelles les plus longues de France;2022;6
+497;Tham Mae Lana;Thailand;Mae Hong Son;Pang Ma Pha;12720,00;12720;150,00;150;0;Limestone;Caves of Malaysia;2015;2
+387;Dan yr Ogof;United Kingdom;Wales;Powys;16000,00;16000;150,00;150;0;Limestone;www.ukcaves.co.uk/all-longest;2016;1
+123;Jiangzhou Dongxuexitong;China;Guangxi;Fengshan;38500,00;38500;150,00;150;0;Limestone;www.hongmeigui.net/deepandlong.php;2017;4
+48;Ogof Draenen;United Kingdom;Wales;Monmouthshire;70000,00;70000;151,00;151;0;Limestone;www.ukcaves.co.uk/all-longest;2016;1
+137;Lilburn Cave (N.P.);USA;California;Tulare;35679,00;35679;154,84;154;0;Limestone;Jed Mosenfelder e-mail;2019;1
+401;Cueva de la Cullalvera;Spain;Cantabria;Ramales de la Victoria;15433,00;15433;160,00;160;0;Limestone;Jose Luis Membrado e-mail;2023;7
+162;Ogof Agen Allwedd;United Kingdom;Wales;Powys, Monmouthshire;32800,00;32800;160,00;160;0;Limestone;-;;
+118;Chiquibul Cave System (Cebaba & Actun Tunkul);Belize;Mt Junea West;Chiquibul;39000,00;39000;160,00;160;0;Limestone;Tom Miller e-mail;2016;1
+664;Grotte Roche Chalve - Trou du Coeur;France;Occitanie;-;10160,00;10160;162,00;162;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+222;Fern Cave (597);USA;Alabama;Jackson;25154,05;25154;163,37;163;0;Limestone;Fern Cave Project;2017;6
+198;Kingsdale Master Cave System;United Kingdom;England;North Yorkshire;27000,00;27000;165,00;165;0;Limestone;www.ukcaves.co.uk/all-longest;;
+33;Great Savannah Cave System;USA;West Virginia;Greenbrier;88530,10;88530;167,80;167;0;Limestone;Nick Socky email;2024;10
+339;Predjamski sistem;Slovenia;-;-;17945,00;17945;168,00;168;0;Limestone;Long Cave List;2019;9
+299;Aven Noir;France;Aveyron;Grands Causses;20000,00;20000;170,00;170;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+186;Reseau de Francheville;France;Cote-d'Or;Francheville;28530,00;28530;170,00;170;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+86;Pestera Vantului;Romania;Bihor;Mtii Padurea Craiului;50000,00;50000;170,00;170;0;Limestone;Liviu Valenas e-mail;2017;4
+39;Fort Stanton Cave;USA;New Mexico;Lincoln;83267,50;83267;172,80;172;0;Limestone;Lee H.Skinner e-mail;2024;10
+396;êvent de Rognäs;France;Occitanie;-;15600,00;15600;173,00;173;0;Gypsum;Liste des cavites naturelles les plus longues de France;2022;6
+93;Scott Hollow Cave;USA;West Virginia;Monroe;47475,65;47475;174,04;174;0;Limestone;WVASS Spring Meeting;2016;5
+456;Tham Lom-Tham Nam System;Thailand;Chiang Mai;Chiang Dao;13541,00;13541;176,00;176;0;Limestone;Martin Ellis e-mail;2016;9
+97;Memorial Day Cave;USA;West Virginia;Pendleton;46719,26;46719;176,54;176;0;Limestone;GVKS;2020;12
+516;Sistemul Zapodie - Pestera Neagra;Romania;Bihor;Mtii Bihor;12320,00;12320;179,00;179;0;Limestone;Liviu Valenas e-mail;;
+518;Rudickà propadani;Czech Rep.;-;-;12300,00;12300;180,00;180;0;Limestone;Eric Madelanine list;2006;7
+272;Pestera din PÉrÉul Hodobanei;Romania;Bihor;Mtii Bihor;22142,00;22142;181,00;181;0;Limestone;Liviu Valenas e-mail;2022;3
+447;Thompson Valley Cave System (Corkscrew Cave);USA;Virginia;Tazewell;13841,00;13841;184,00;184;0;Limestone;VSS;2019;11
+513;Räseau Lot du Bois - Source du pissieux;France;Auvergne-Rhone-Alpes;-;12416,00;12416;185,00;185;0;Underwater;Liste des cavites naturelles les plus longues de France;2022;6
+37;Friars Hole Cave System;USA;West Virginia;Green./Pocoho.;84587,10;84587;186,84;186;0;Limestone;Bill Storage email;2024;3
+326;Krem UmTHLOO-SYNRANG Labbit;India;Meghalaya;Jaintia Hills;18234,00;18234;188,00;188;0;Limestone;Descent N275P15;;
+49;Double Bopper Cave;USA;Arizona;Coconino;68719,00;68719;188,37;188;0;Limestone;Jason Ballensky e-mail;2024;11
+282;Gaping Gill System;United Kingdom;England;Northern Dales;21000,00;21000;192,00;192;0;Limestone;www.ukcaves.co.uk/all-longest;2018;2
+26;Systeme de Ojo Guarena;Spain;Burgos;Merindad de Sotoscueva;111000,00;111000;193,00;193;0;Limestone;Jose Luis Membrado e-mail;2023;6
+245;Stratenska jaskyna - Psie diery ??;Slovakia;Spissko-gemersky;Slovensky raj;23670,00;23670;194,00;194;0;Limestone;www.drienka.host.sk/najdlhsie.php;1988;10
+40;Sistema de los Cuatro (4) Valles;Spain;Cantabria;Solorzano;78059,00;78059;194,00;194;0;Limestone;Juan Corrin email;2025;3
+184;Butler-Sinking Creek System;USA;Virginia;Bath;29064,75;29064;196,38;196;0;Limestone;Tont Canike email;2016;9
+105;Demanovsky jaskynny system;Slovakia;Nizke Tatry;Demanovske vrchy;43036,00;43036;196,00;196;0;Limestone;Pavel Herich e-mail;1999;4
+121;Cueva la Vallina (VT.100);Spain;Cantabria;Arredondo;38591,00;38591;197,00;197;0;Limestone;Juan Corrin email;2024;8
+6;Wind Cave (N.P.);USA;South Dakota;Custer;270402,00;270402;197,20;197;0;Limestone;Marc Ohms e-mail;2025;3
+656;Sistema del Ojancano - Anjana;Spain;Canabria;Miera;10225,00;10225;200,00;200;0;Limestone;Jose Luis Membrado e-mail;2021;5
+229;Krasnaya (Kyzyl-Toba) (Qizil Qoba);Ukraine;Crimea;-;24430,00;24430;200,00;200;0;Gypsum;Inced O. e-mail;2016;1
+586;Stang-Rotwandl-System;Austria;Steinernes Meer;Salzburg;11147,00;11147;201,00;201;0;Limestone;Lukas Plan email;2024;6
+673;Little Brush Creek Cave;USA;Utah;Uintah;10058,40;10058;202,00;202;0;Limestone;Matt Paulson FB;2022;7
+506;Overholts Blowing Cave;USA;West Virginia;Pocahontas;12570,59;12570;203,00;203;0;Limestone;Gary Storrick;2016;1
+311;Ariadne Cave System;Hungary;Borsod-Aba£j-ZemplÇn;North-Central Mountains;19000,00;19000;204,00;204;0;Limestone;www.ariadneegyesulet.hu;2017;6
+619;Simmons Mingo - My Cave System;USA;West Virginia;Rand./Pocahon.;10782,60;10782;208,18;208;0;Limestone;Bob Thrun;1982;6
+663;Grotte de Baume Layrou;France;Occitanie;-;10190,00;10190;211,00;211;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+625;Complejo Hundidero - Gato;Spain;Malaga;Sierra de Libar;10670,00;10670;212,00;212;0;Limestone;Jose Luis Membrado e-mail;2021;5
+80;System Amaterskej a Punkevni Jesky.;Czech Rep.;Moravia;Ostrov;51707,00;51707;212,00;212;0;Limestone;Jan Sirotek e-mail;2024;1
+278;Krem KotSati/Um Lawan;India;Meghalaya;Jaintia Hills;21530,00;21530;215,00;215;0;Limestone;Indian Sub Coninent Longest/Deepest Limestone Caves 3/13;2009;7
+529;Neuenburgerhîhle;Switzerland;Frluhli;LU;12086,00;12086;217,00;217;0;Limestone;List of Swiss Long k& Deep Caves;2009;7
+134;Sugar Run Cave System;USA;Virginia;Giles;36291,00;36291;218,85;218;0;Limestone;VSS;2015;2
+256;Mini - Martin Cave - Exit Cave;Australia;Tasmania;Ida Bay;23000,00;23000;220,00;220;0;Limestone;Sherry Juneo;2017;6
+47;Hellhole System;USA;West Virginia;Pendleton;70167,40;70167;224,64;224;0;Limestone;GVKS;2020;2
+225;Sistema Buso della Rana / Pisarela;Italy;Veneto;Faedo-Casaron;25033,00;25033;225,00;225;0;Limestone;Class.del.g.piu lunghe/profon.d'Italia;2009;7
+164;Reseau des Grottes aux Fees;Switzerland;Vallorbe;Vaud;32657,00;32657;227,00;227;0;Gypsum;List of Swiss Long k& Deep Caves;2009;7
+413;Grotte de la Cigalere;France;Ariege;Pyrenees;15000,00;15000;228,00;228;0;Limestone;Philippe Audra (Spelunca N66);2017;6
+295;Sistemul Ciur - Ponor - Toplita de Rosia;Romania;Bihor;Mtii Padurea Craiului;20150,00;20150;228,00;228;0;Limestone;Victor Ursu e-mal;2021;10
+192;Ogof Daren Cilau System;United Kingdom;Wales;Powys, Monmouthshire;28000,00;28000;232,00;232;0;Limestone;www.ukcaves.co.uk/all-longest;2016;1
+541;Grotte de Malaval;France;Occitanie;-;12000,00;12000;237,00;237;0;Gypsum;Liste des cavites naturelles les plus longues de France;2022;6
+68;Bol'shaja Oreshnaja (Conglomerate);Russia;Russia;Kransnojarsk;58000,00;58000;240,00;240;0;Conglomerate;International Caver 2000 P78;2017;6
+431;Punta Pena System (Cueva de la Lastrilla, Cubilla, Jabali);Spain;Cantabria;Castro Urdiales;14317,00;14317;243,00;243;0;Limestone;Pedro Antonio Diaz Hoz e-mail;2022;1
+553;Bilemot Kul;South Korea;Cheju Island;-;11749,00;11749;245,00;245;0;Limestone;On Lava Caves in Japan and Vivinity;2016;8
+254;Complesso Fiume-Vento;Italy;Marche;Frasassi;23000,00;23000;245,00;245;0;Limestone;http://www.Class.del.g.piulunghe/profon.d'Italia;2009;7
+563;Basanberroko Ziloa;Spain;Nafarroa;Koroa;11565,00;11565;247,00;247;0;Limestone;Pepe Membrado e-mail;2022;7
+342;Peak/Speedwell System (part mine);United Kingdom;England;Derbyshire;17750,00;17750;248,00;248;0;Limestone;www.ukcaves.co.uk/all-longest;2016;7
+139;Chestnut Ridge Cave System;USA;Virginia;Bath;35507,00;35507;248,00;248;0;Limestone;BCCS;2019;10
+487;Aven de la Combe Rajeau;France;Auvergne-Rhone-Alpes;-;13000,00;13000;250,00;250;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+589;Aven de Rogues;France;Occitanie;-;11091,00;11091;253,00;253;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+35;Three Counties System;United Kingdom;England;Northern Dales;86619,00;86619;253,00;253;0;Limestone;Wookey e-mail;2021;9
+5;Jewel Cave (N.M.);USA;South Dakota;Custer;354860,35;354860;253,62;253;0;Limestone;Adam Weaver email;2024;5
+610;Lurgrotte;Austria;Grazer Bergland;Steiermark;10833,00;10833;259,00;259;0;Limestone;Lukas Plan email;2024;6
+107;Tham Khoun Dori - Houay Sai System Cave;Laos;Khammouane;Ban Na;42077,00;42077;260,00;260;0;Limestone;Charles Ghommidh e-mail;2009;7
+521;Blue Water Cave;Philippines;Baggao;Cagayan;12276,00;12276;265,00;265;0;Limestone;Henry Bennett e-mail;2022;8
+643;Lachenstock-Hîhlensystem;Switzerland;Innerthal;SZ;10413,00;10413;267,00;267;0;Limestone;List of Swiss Long k& Deep Caves;2022;3
+399;Sistema de las Bernias;Spain;Burgos;Lunada;15469,00;15469;276,00;276;0;Limestone;Jose Luis Membrado email;2024;6
+407;Kacna Cave (System);Slovenia;Divaski Karst;-;15181,00;15181;280,00;280;0;Limestone;Longest & Deepest Caves of Slovenia;2016;9
+417;Cueva del Lobo;Spain;Cantabria;-;14780,00;14780;284,00;284;0;Limestone;Jose Luis Membrado e-mail;2016;1
+286;Räseau Pleurachat-Doria;France;Auvergne-Rhone-Alpes;Prealpes;20924,00;20924;287,00;287;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+108;Kipuka Kanohina Cave (Kula Kai Caverns);USA;Hawaii;Hawaii;42010,00;42010;288,00;288;0;Lava;Kanohina Data Manager - Tomislav Gracanin e-mail;2019;6
+90;Trou du Garde / Creux de la Cavale;France;Savoie;Les Deserts;48476,00;48476;301,00;301;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+492;Sistema Cueva'l Trumbiu - Pozu Haciosu;Spain;Asturias;Picos de Europa;12903,00;12903;302,00;302;0;Limestone;Jose Luis Membrado e-mail;2023;4
+300;Reseau Fanges - Paradet;France;Pyrenees-Orientales;Fenouilledes;19763,00;19763;302,00;302;0;Limestone;Bernard Ournie e-mail;2021;5
+210;Almberg-Hîhlensystem;Austria;Totes Gebirge;Steiermark;26053,00;26053;302,00;302;0;Limestone;Lukas Plan email;2024;6
+375;Silvertip Cave System;USA;Montana;Flathead;16350,94;16350;304,00;304;0;Limestone;Jason Ballensky e-mail;2022;5
+199;Green Cathedral/Turtle Cave System;Malaysia;Sarawak;Gunung Buda;26971,00;26971;304,00;304;0;Limestone;NSS News V62N8P225;;
+635;Grotte du Garrel;France;Occitanie;-;10500,00;10500;306,00;306;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+63;Ogof Ffynnon Ddu;United Kingdom;Wales;Powys;60644,00;60644;309,50;309;0;Limestone;-;2021;10
+69;Kap-Kutan/Promezhutochnaja;Turkmenistan;Turkistan;Gissarsko-Ala.;57000,00;57000;310,00;310;0;Limestone;RSIC;2019;9
+274;Räseau de la Falconette;France;Auvergne-Rhone-Alpes;Bas-Bugey;22000,00;22000;312,00;312;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+109;Pestera din Poienita-Pestera dein Dealul Humpleu;Romania;Alba;Mtii Bihor;42000,00;42000;313,00;313;0;Limestone;Victor Ursu info;2020;3
+601;Da Dong;China;Hubei;Wufeng;10932,00;10932;314,00;314;0;Limestone;www.hongmeigui.net/deepandlong.php;2017;4
+117;Sistemul Humpleu-Poienita;Romania;Cluj;Mtii Bihor;39000,00;39000;314,00;314;0;Limestone;Romania-Natural;2022;3
+67;Gouffre de Padirac;France;Lot;Causse de Gramat;59000,00;59000;315,00;315;0;Limestone;Jean-Yves Bigot;2019;4
+60;Carlsbad Cavern (C.C.N.P.);USA;New Mexico;Eddy;63569,09;63569;315,47;315;0;Limestone;Vidio on liine;2019;12
+435;Synrang Pamiang;India;Meghalaya;-;14157,00;14157;317,00;317;0;Limestone;BCRA I12P16;;
+305;Ellisons Cave;USA;Georgia;Walker;19516,51;19516;324,00;324;0;Limestone;Georgia Underground V24N1;1987;3
+280;Jaskyna Mrtvych netopierov ??;Slovakia;Nizke Tatry;Dumbier;21042,00;21042;324,00;324;0;Limestone;www.drienka.host.sk/najdlhsie.php;1988;10
+58;Grotte de Saint-Marcel;France;Ardeche;Bas-Vivarais;64500,00;64500;325,00;325;0;Limestone;Liste des cavites naturelles les plus longues de France;2019;4
+556;Räseau Christian - Gathier;France;Auvergne-Rhone-Alpes;-;11700,00;11700;327,00;327;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+458;Cova Cuberes (Conglomerate);Spain;Catalonia;Pallars Jussa;13513,00;13513;328,00;328;0;Conglomerate;Jordi Lloret-Prieto e-mail;2016;3
+571;Hîhle beim Spannagelhaus;Austria;Zillertaler Alpen;Tirol;11500,00;11500;329,00;329;0;Limestone;Lukas Plan email;2024;6
+288;Cloud Cave - Cobra Cave - Bridge System;Malaysia;Sarawak;Mulu;20632,00;20632;330,00;330;0;Limestone;Mulu Caves Project;2021;10
+283;De Gamile Chine Xao (Chjine Xjo, Xine Xao);Mexico;Oaxaca;-;21000,00;21000;330,00;330;0;Limestone;Chris Andrews;2019;3
+620;Rede de Cerveriz;Spain;Asturias;Somiedo;10750,00;10750;336,00;336;0;Limestone;Jose Luis Membrado e-mail;2021;5
+312;Feihu Dong;China;Hunan;Longshan;19000,00;19000;340,00;340;0;Limestone;http://www.grottes-et-karsts-de-chine.org/npds/gkc_gro.php?op=deve;2015;2
+348;Aven du Sotch de la Tride;France;Aveyron;Grands Causses;17400,00;17400;342,00;342;0;Limestone;Liste Drouin;2017;6
+51;San Wang Dong;China;Chongqing;Wulong;67825,00;67825;343,00;343;0;Limestone;Descent 231;2016;5
+277;Sistema del Rio Encantado;Puerto Rico;-;Florida,Ciales,Manati;21770,00;21770;344,00;344;0;Limestone;Mark Minton e-mail;;
+78;Jianghou Dixachanglang;China;Guangxi;Fengshan;53070,00;53070;344,00;344;0;Limestone;;2016;8
+77;Teng Long Dong;China;Hubei;Lichuan;53210,00;53210;344,00;344;0;Limestone;Zhi Quin FB;2022;6
+149;Sistema Azpilicueta-Coteron-Renada (Sistema de la Vega);Spain;Cantabria;Ruesga;34783,00;34783;346,00;346;0;Limestone;Jose Luis Membrado e-mail;2023;4
+386;Pahoa Cave(s) (segmentation??);USA;Hawaii;Hawaii;16000,10;16000;350,50;350;0;Lava;Dr. Stephen Smith reports that this cave could be as short as about 2 miles long now, due to plugging and segmentation by the 2018 Kilauea 61g lava flows.;2016;5
+226;Torca del Regato Calero;Spain;Cantabria;-;25000,00;25000;350,00;350;0;Limestone;Jose Luis Membrado e-mail;2020;8
+152;Atea Kananda;Papua New Guinea;Southern Highland;Muller Range;34500,00;34500;350,00;350;0;Limestone;The British Caver V94-95;2017;6
+533;St.Beatus-Hîhlen;Switzerland;Beatenberg;BE;12015,00;12015;353,00;353;0;Limestone;List of Swiss Long k& Deep Caves;2022;3
+344;Chu Yan (Xiniu) Dong;China;Guizhou;An Long;17600,00;17600;355,00;355;0;Limestone;http://www.grottes-et-karsts-de-chine.org/npds/gkc_rcdev50.php?;2017;6
+7;The Clearwater System (Gua Air Jernih);Malaysia;Sarawak;Mulu;265882,00;265882;355,10;355;0;Limestone;Matt Kirby email;2025;4
+470;Longmen Dong (Conglomerate);China;Sichuan;Yaan;13190,00;13190;356,00;356;0;Conglomerate;www.hongmeigui.net/deepandlong.php;2017;4
+365;Aven de la Leicasse;France;Herault;Grands Causses;16530,00;16530;356,00;356;0;Limestone;Jean-Yves Bigot;2016;1
+174;Verborgene Hîhle;Austria;Totes Gebirge;Oberîsterreich;30956,00;30956;365,00;365;0;Limestone;Lukas Plan email;2024;6
+206;Bigfoot Cave;USA;California;Siskiyou;26151,84;26151;367,28;367;0;Limestone;Scott Linn e-mail;2016;10
+98;Reseau des Chuats;France;Drome;Vercors;46468,00;46468;368,00;368;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+496;Weymer Cave System;Canada;;;12739,00;12739;370,00;370;0;Limestone;Pat Shaw e-mail;2022;2
+159;Reseau de Bunant;France;Haute Savoie;Parmelan;33500,00;33500;370,00;370;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+374;Pestera din Valea Rea;Romania;Bihor;Mtii Bihor;16357,00;16357;372,00;372;0;Limestone;Victor Ursu e-mal;2022;3
+279;Castleguard Cave;Canada;Alberta;Rockies;21311,00;21311;384,00;384;0;Limestone;Canada Long and Deep Caves Assembled by Pat Shaw;2022;8
+94;Omega System;USA;Virginia;Wise;47362,99;47362;384,96;384;0;Limestone;Mike Ficco e-mail;2016;6
+144;Reseau du Verneau;France;Doubs;Deservillers;35000,00;35000;387,00;387;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+448;Yorkshire Pot;Canada;AB/BC;Rockies;13812,00;13812;389,00;389;0;Limestone;Canada Long and Deep Caves Assembled by Pat Shaw;2022;8
+148;Greenlink - Middle Earth System;New Zealand;South Island;Takaka Hill;34902,00;34902;389,00;389;0;Limestone;Lindsay Main NZ Speleological Soc. Info Officer;2020;6
+444;Räseau de la Grotte des Chamois;France;Alpes-Cìte d'Azur;Alpes du Sud;13900,00;13900;390,00;390;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+445;Altherrenlabyrinth;Austria;Tennengebirge;Salzburg;13876,00;13876;395,00;395;0;Limestone;Lukas Plan email;2024;6
+637;Grubstein-Westwandhîhle;Austria;Totes Gebirge;Steiermark;10485,00;10485;396,00;396;0;Limestone;Lukas Plan email;2024;6
+605;Gouffre du Petit Saint Cassien;France;Alpes-Cìte d'Azur;-;10865,00;10865;403,00;403;0;Underwater;Liste des cavites naturelles les plus longues de France;2022;6
+627;Karrenschacht;Austria;Totes Gebirge;Steiermark;10640,00;10640;406,00;406;0;Limestone;Lukas Plan email;2024;6
+385;Aven Lacas;France;Occitanie;-;16051,00;16051;406,00;406;0;Gypsum;Liste des cavites naturelles les plus longues de France;2022;6
+322;ARGO Cave System;Canada;BC;Vancouver Island;18401,00;18401;406,00;406;0;Limestone;Canada Long and Deep Caves Assembled by Pat Shaw;2022;8
+545;Windlîcher-Klingertalschacht;Austria;Untersberg;Salzburg;12000,00;12000;411,00;411;0;Limestone;Lukas Plan email;2024;6
+330;Reseau de Malissard;France;Isere / Savoie;Chartreuse;18160,00;18160;415,00;415;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+112;Cueva del Tecolote;Mexico;Tamaulipas;Villa Hidalgo;40475,00;40475;424,00;424;0;Limestone;Mark Minton e-mail;2016;5
+557;Pestera Sura Mare;Romania;Hnedoara;Mtii Sebesului;11694,00;11694;425,00;425;0;Limestone;Romania-Natural;2022;8
+166;Reseau de Coufin-Chevaline;France;Isere;Vercors;32301,00;32301;425,00;425;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+504;Great EX(pectations) Cave;USA;Wyoming;Washakie;12639,79;12639;429,16;429;0;Limestone;NSS News V44N6 (Peter Shifflett);1986;6
+483;Cueva del Rio La Venta;Mexico;-;-;13000,00;13000;430,00;430;0;Limestone;Eric Madelanine list;2006;7
+411;Complesso Omber en Banda al Bus del Zel-791;Italy;Lombardia;Cariadeghe;15000,00;15000;430,00;430;0;Limestone;http://www.Class.del.g.piulunghe/profon.d'Italia;2017;6
+138;Tantalhîhle;Austria;Hagengebirge;Salzburg;35520,00;35520;435,00;435;0;Limestone;Lukas Plan email;2024;6
+307;Torca de los Corrales del Trillo (Sistema Pena del Trillo-La Tramasquera);Spain;Cantabria / Burgos;-;19300,00;19300;436,00;436;0;Limestone;Clasificacion Por Desnivel;2016;7
+287;Emesine Cave (1881 System);USA;Hawaii;Hawaii;20744,40;20744;436,80;436;0;Lava;Don Coons e-mail;2016;3
+451;Räseau d'Ardengost;France;Occitanie;Pyrenees;13720,00;13720;440,00;440;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+230;Hualalai Ranch Cave;USA;Hawaii;Hawaii;24217,00;24217;441,70;441;0;Lava;Doug Medville e-mail;2016;3
+95;Er Wang Dong;China;Chongqing;Wulong;47199,00;47199;441,00;441;0;Limestone;www.hongmeigui.net/deepandlong.php;2017;4
+675;Sistema de la Torca del Cueto C†rabo - Mina Esperanza;Spain;Bizkaia;Karrantza;10000,00;10000;442,00;442;0;Limestone;Jose Luis Membrado email;2025;1
+111;Eisriesenwelt;Austria;Tennengebirge;Salzburg;42000,00;42000;442,00;442;0;Limestone;Lukas Plan email;2024;6
+264;Grotta della Bigonda;Italy;Trentino A.A.;Alt.di Asingo;22600,00;22600;450,00;450;0;Limestone;Class.del.g.piu lunghe/profon.d'Italia;2017;6
+147;Mesacny tien;Slovakia;Vysoke Tatry;Javorinska Siroka;34994,00;34994;451,00;451;0;Limestone;Branislav ?mida;1999;4
+32;Sima del Hayal de Ponata-Rebollar II (SI-44,SI-57,SR-7);Spain;Araba/Bizkaia/Burgos;Sierra Salvada/Gorobel M.;90000,00;90000;451,00;451;0;Limestone;Jose Luis Membrado e-mail;2023;3
+618;Offenbarungs-Eishîhle;Austria;Tennengebirge;Salzburg;10785,00;10785;452,00;452;0;Limestone;Lukas Plan email;2024;6
+576;Hîlloch;Germany;Bavaria;-;11346,00;11346;452,00;452;0;Limestone;Andreas Wolf List of Longest Caves in Germany;;
+493;Hîlloch im Mahdtal;Austria;AllgÑuer Alpen;D(Bayern)/Vorarlberg;12900,00;12900;452,00;452;0;Limestone;Lukas Plan email;2024;6
+499;Sistema Torca de los Morteros - Cueva de Imumia;Spain;Burgos;Espinosa de los Monteros;12705,00;12705;453,00;453;0;Limestone;Jose Luis Membrado e-mail;2023;4
+665;Grotte du Grand Antoine;France;Auvergne-Rhone-Alpes;-;10154,00;10154;460,00;460;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+332;Pestera de la Izvorul Tausoare;Romania;Bistrita-Nasaud;Mtii Rodnei;18107,00;18107;461,00;461;0;Limestone;Victor Ursu e-mal;2021;10
+520;Cuves de Sassenage;France;Auvergne-Rhone-Alpes;-;12295,00;12295;462,00;462;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+598;Fallenfluh-Hîhlenstem (Lauiloch, Dreckiges Paradies);Switzerland;Muotatal;SC;10985,00;10985;464,00;464;0;Limestone;List of Swiss Long k& Deep Caves;2022;3
+538;Tham Phi Xua;Laos;Khammouane;Thakhek;12000,00;12000;465,00;465;0;Limestone;Atlas of the Great Caves and Karst of Southeast Asia P113;;
+169;Klarahîhle;Austria;Sengsengebirge;Oberîsterreich;31515,00;31515;472,00;472;0;Limestone;Lukas Plan email;2024;6
+559;Snail Shell Cave;Malaysia;Sarawak;Gunung Buda;11636,00;11636;473,00;473;0;Limestone;-;;
+597;Sistema San Andres;Mexico;Puebla;Ocotempa;10988,00;10988;474,00;474;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;12
+572;Aven des Baoudillouns;France;Alpes-Cìte d'Azur;-;11416,00;11416;475,00;475;0;Lava;Liste des cavites naturelles les plus longues de France;2022;6
+236;Gouffre Nebele;France;Pyrenees-Atlantiques;Aquitaine;24038,00;24038;475,00;475;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+9;Lechuguilla Cave (C.C.N.P.);USA;New Mexico;Eddy;244790,00;244790;484,20;484;0;Limestone;Max Wissak email;2023;1
+306;Lingshandong;China;Guizhou;Zhengan;19301,00;19301;485,00;485;0;Limestone;Long Caves in China by Erin Lynch;2016;1
+613;Hue Hue (Manini Owali) Cave;USA;Hawaii;Hawaii;10800,30;10800;494,70;494;0;Lava;Stephan Kempe;1999;10
+220;Tjoarvekrajgge;Norway;Nordland;Sorfold;25167,00;25167;497,00;497;0;Limestone;Torstein Finnesand e-mail;2016;6
+65;Cueva del Valle (Red Del Silencio);Spain;Cantabria;Vizcaya/Cantabria;60223,00;60223;502,00;502;0;Limestone;Jose Luis Membrado email;2023;6
+269;Gouffre de Cabrespine (lo Gaugnas);France;Aude;Montagne Noire;22500,00;22500;504,00;504;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+582;Systäme Pinet - Brouillard;France;Alpes-Cìte d'Azur;-;11175,00;11175;507,00;507;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+205;Sistema Tibia-Fresca;Spain;Cantabria;Porracolina;26400,00;26400;507,00;507;0;Limestone;Jose Luis Membrado e-mail;2021;11
+172;Systeme Prerouge - Litorne;France;Savoie;Bauges;31292,00;31292;508,00;508;0;Limestone;Jose Luis e-mail;2015;2
+603;SÅdwandhîhle;Austria;Dachstein;Stmk/Oô;10904,00;10904;509,00;509;0;Limestone;Lukas Plan email;2024;6
+630;Munizaba;Croatia;Juzni Velebit;Crnopac;10538,00;10538;510,00;510;0;Limestone;Aida Bari?i? email;2024;12
+358;Cueva Tonio - Cayueia;Spain;Cantabria;Porracolina;17005,00;17005;527,00;527;0;Limestone;Jose Luis Membrado e-mail;2019;9
+75;Mamo Kananda;Papua New Guinea;Southern Highland;Muller Range;54800,00;54800;528,00;528;0;Limestone;Atlas Des Grandes Cavites Mondia.;2016;1
+275;Sistema del Hoyon de Saco(Sistema del Hoyo Grande);Spain;Cantabria;Porracolina;21800,00;21800;530,00;530;0;Limestone;Clasificacion Por Desnivel;2016;7
+317;Cueva del Hoyo Salcedillo;Spain;Cantabria;Porracolina;18800,00;18800;532,00;532;0;Limestone;Jose Luis Membrado e-mail;2015;2
+588;Sistema del Alba;Spain;Huesca;Pirineos;11097,00;11097;534,00;534;0;Limestone;Pepe Membrado e-mail;2023;4
+314;Cueva del Nacimiento;Spain;Cantabria;Picos de Europa;18925,00;18925;536,00;536;0;Limestone;Jose Luis Membrado e-mail;2024;12
+368;Kolkina Dupka;Bulgaria;Sofia;Balkan Mountains;16471,00;16471;542,00;542;0;Limestone;Wikipedia;2022;8
+72;Sistema de Atxuriaga (Complex);Spain;Bizkaia;Galdames;56000,00;56000;546,00;546;0;Limestone;Jose Luis Membrado e-mail;2016;10
+151;Mawandong;China;Guizhou;Zhengan;34657,00;34657;555,00;555;0;Limestone;http://www.grottes-et-karsts-de-chine.org/npds/gkc_gro.php?op=deve;2015;2
+595;Scialet Candy;France;Auvergne-Rhone-Alpes;-;11000,00;11000;558,00;558;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+320;Cueva del Viento-cueva del Sobrado;Spain;Canarias Island;Tenerife Is.;18500,00;18500;560,00;560;0;Lava;Jose Luis Membrado e-mail;43862;
+248;Kolkina Cave;Bulgaria;Sofia Province;;23297,00;23297;561,00;561;0;Limestone;Elfi Hristova email;2024;4
+510;Combe des Bioles - Tanne des Squelettes;France;Savoie;Bauges;12500,00;12500;563,00;563;0;Limestone;Philippe Audra (Spelunca N66);2017;6
+50;Complesso della Valle del Nose;Italy;Lombardia;Pian del Tivano;68288,00;68288;570,00;570;0;Limestone;Andrea Maconi e-mail;2017;6
+302;SchrattenHoehle;Switzerland;Obwalden;Kerns;19645,00;19645;573,00;573;0;Limestone;http://ch.speleo.info;2009;7
+436;Tonion-Hîhlensystem;Austria;Tonion;Steiermark;14140,00;14140;580,00;580;0;Limestone;Lukas Plan email;2024;6
+71;Grotte de la Luire;France;Drome;Vercors;56182,00;56182;581,00;581;0;Limestone;Liste des cavites naturelles les plus longues de France;2019;4
+247;Bojian;China;Guizhou;Zunyi Shi;23360,00;23360;590,00;590;0;Limestone;http://www.grottes-et-karsts-de-chine.org/npds/gkc_rcdev50.php?;2016;8
+211;Systeme Biolles - Squelettes - Crolleurs;France;Savoie;Margeriaz;26001,00;26001;591,00;591;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+570;Behiako Leizea;France;Nouvelle-Aquitaine;Pyrenees;11500,00;11500;596,00;596;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D408;Torca JA.7;Spain;Asturias;Picos de Europa;0,00;0;600,00;600;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D407;Torca'l Mogu (JL.9);Spain;Asturias;Picos de Europa;1123,00;1123;602,00;602;0;Limestone;Jose Luis Membrado e-mail;2021;5
+467;Sysäme souterrain de I'Hyder;France;Occitanie;-;13200,00;13200;604,00;604;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D405;Kuchelberg-Windhîhle;Austria;Tennengebirge;Salzburg;950,00;950;605,00;605;0;Limestone;Lukas Plan email;2024;6
+D404;[Brezno treh src];Slovenia;Sneznik;-;715,00;715;606,00;606;0;Limestone;List of Slovenia's Longest & Deepest;2021;10
+D403;Gouffre du Papilion;France;Occitanie;;5000,00;5000;606,00;606;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+440;Labassa;Italy;-;-;14000,00;14000;606,00;606;0;Limestone;Eric Madelanine list;2006;7
+D401;Torca de la Torre de Altalz;Spain;Cantabria;Picos de Europa;1950,00;1950;608,00;608;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D400;Gouffre du Rocher de Louctores;France;Nouvelle-Aquitaine;-;0,00;0;609,00;609;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D399;BB030;Albania;Shkoder;Teth;0,00;0;610,00;610;0;Limestone;Mariusz Polok email;2023;1
+D398;Eisturnerhîhle;Austria;Dachstein;Oberîsterreich;1600,00;1600;610,00;610;0;Limestone;Lukas Plan email;2024;6
+D397;Räseau Belle - Cassagnous;France;Occitanie;-;9994,03;9994;610,00;610;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D396;R'ja Man Kijao (Nita);Mexico;Oaxaca;-;0,00;0;611,00;611;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D395;DÅdena?z?;Turkey;Denizli;Karaman / Basyayla;2039,00;2039;612,00;612;0;Limestone;https://tumaf.org/turkiyenin-en-uzun-ve-en-derin-magaralari/;2010;12
+D394;Torca'l Llagu Las Monetas;Spain;Asturias;Picos de Europa;1200,00;1200;613,00;613;0;Limestone;Jose Luis Membrado e-mail;2021;5
+313;Rede Toneyo;Spain;Asturias;Macizo del Cornion;18970,00;18970;614,00;614;0;Limestone;List of Spains Longest & Deepest (WWW);1998;4
+D392;Ogrschacht;Austria;Hoher Gîll;Salzburg;1740,00;1740;615,00;615;0;Limestone;Lukas Plan email;2024;6
+D391;Pralina;Greece;Crete;Levka Ori;816,00;816;617,00;617;0;Limestone;Panagiotis Papadakos email;2024;10
+D390;A.351 (Cotiella);Spain;Huesca;Sierras de Beza;3300,00;3300;617,00;617;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D389;Tanne à Chaw alies la Grand Trou;France;Auvergne-Rhìne-Alpes;-;1373,00;1373;618,00;618;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D388;Sistema de la Punta de las Olas-Cueva Escarchada;Spain;Huesca;Pirineos;7251,00;7251;618,00;618;0;Limestone;Jose Luis Membrados email;2024;6
+D387;Pozu'l Hou Lluengu;Spain;Asturias;Picos de Europa;1610,00;1610;619,00;619;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D386;Peleta;Greece;Peloponnese;Parnon;1195,00;1195;620,00;620;0;Limestone;Panagiotis Papadakos email;2024;10
+600;Sistema del Circo de Armena;Spain;Huesca;Pirineos;10960,00;10960;620,00;620;0;Limestone;Jose Luis Membrado e-mail;2021;5
+540;Grotta della Mottera;Italy;-;-;12000,00;12000;620,00;620;0;Limestone;Eric Madelanine list;2006;7
+253;Cueva Coyolat;Mexico;Puebla;Tlacotepec;23000,00;23000;620,00;620;0;Limestone;Gustavo e-mail AMCS#29;2016;5
+D382;Räseau de la Pique;France;Occitanie;-;1900,00;1900;621,00;621;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D381;Sistema Atlalaquia;Mexico;Chiapas;-;0,00;0;623,00;623;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+454;Torca de la Llana de Len;Spain;Cantabria;Porracolina;13603,00;13603;624,00;624;0;Limestone;Jose Luis Membrado e-mail;2023;4
+11;Sistema del Alto Tejuelo;Spain;Cantabria;Porracolina;212020,00;212020;626,00;626;0;Limestone;Dick Hermans email;2024;11
+D378;Stadelalm-Eiskluft;Austria;Ennstaler Alpen;Steiermark;4381,00;4381;627,00;627;0;Limestone;Lukas Plan email;2024;6
+207;Ahnenschacht;Austria;Totes Gebirge;Oberîsterreich;26148,00;26148;627,00;627;0;Limestone;Lukas Plan email;2024;6
+D376;Gouffre du Mail;France;Nouvelle-Aquitaine;-;1142,00;1142;629,00;629;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+472;Gutschtobelhîhle;Switzerland;Muotathal;SZ;13096,00;13096;629,00;629;0;Limestone;Eric Madelanine list;2009;7
+D374;Latschencanyon;Germany;Bavaria;-;2762,00;2762;630,00;630;0;Limestone;Andreas Wolf List of Longest Caves in Germany;2021;2
+241;Sistema Soconusco - Aire Fresco;Mexico;Chiapas;-;23856,00;23856;633,00;633;0;Limestone;-;;
+D372;Pozu'l Trabe Rolamuela;Spain;Asturias;Pena Ubina;2604,00;2604;634,00;634;0;Limestone;Jose Luis Membrado e-mail;2021;5
+73;Systeme du Granier;France;Isere / Savoie;Chartreuse;55725,00;55725;635,00;635;0;Limestone;Liste des cavites naturelles les plus longues de France;2019;4
+D370;Oztotl Asltepetlacac (Cueva Paisano);Mexico;Puebla;-;0,00;0;638,00;638;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D369;Sima Pumacocha;Peru;Laraos;Yaukos;1427,00;1427;638,00;638;0;Limestone;Peter MacNab FB;2019;7
+252;Interessante Hîhle;Austria;Hagengebirge;Salzburg;23095,00;23095;639,00;639;0;Limestone;Lukas Plan email;2024;6
+D365;SÅtlÅk DÅdeni;Turkey;Adana;Pozanti;0,00;0;640,00;640;0;Limestone;Caves and Caving I72;2022;3
+D366;Grallera de Pico Fenez (T.38);Spain;Huesca;Pirineos;0,00;0;640,00;640;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D367;Cuaubtempa Superior;Mexico;Puebla;-;0,00;0;640,00;640;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D364;Sistema Gorrinoa - Prau la Huente;Spain;Asturias;Picos de Europa;4021,00;4021;640,00;640;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D363;Nita Nashi;Mexico;Oaxaca;-;0,00;0;641,00;641;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D361;Subatani DÅdeni;Turkey;Kayseri;Yahyali;0,00;0;643,00;643;0;Limestone;Caves and Caving I72;;
+D362;Vrtiglavica;Slovenia;-;-;0,00;0;643,00;643;0;Limestone;Map;2021;10
+D360;Sistem Pokljuskega grebena;Slovenia;Pokljuke;-;9584,00;9584;643,00;643;0;Limestone;List of Slovenia's Longest & Deepest;2019;9
+D359;C 11 (Moznica);Slovenia;zaledje Koritnice;-;1074,00;1074;644,00;644;0;Limestone;List of Slovenia's Longest & Deepest;2021;10
+D358;Sistema de la Mina Sara;Spain;Cantabria;Picos de Europa;4000,00;4000;644,00;644;0;Limestone;Jose Luis Membrado e-mail;2023;4
+D357;RÇseau de la Combe du Bryon;Switzerland;Leysin;VD;4614,00;4614;646,00;646;0;Limestone;List of Swiss Long k& Deep Caves;2022;3
+D355;Pozo Grande la Torrezuela (FP.202);Spain;Asturias;Picos de Europa;0,00;0;649,00;649;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D356;S¢tano de Tilaco;Mexico;QuerÇtaro;-;0,00;0;649,00;649;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D354;Fisura de Chica (Pozo Chicago);Spain;Asturias;Picos de Europa;1150,00;1150;650,00;650;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D353;Aufrei·er;Germany;Bavaria;-;1170,00;1170;650,00;650;0;Limestone;Andreas Wolf List of Longest Caves in Germany;2021;2
+D352;Pozo de la Celada;Spain;Leon;Picos de Europa;1719,00;1719;650,00;650;0;Limestone;Jose Luis Membrado e-mail;2021;5
+672;Uterdinetako Lezea (Grotte de l'Ours) - PÇrdida del Becerro;Spain;Navarra;Larra;10065,00;10065;650,00;650;0;Limestone;Jose Luis Membrado email;2025;3
+D350;Gouffre des Diablotins;Switzerland;Charmey;FR;2202,00;2202;652,00;652;0;Limestone;List of Swiss Long k& Deep Caves;2022;3
+D349;Cueva Tipitcli (Tipitli);Mexico;Puebla;-;0,00;0;653,00;653;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+193;V5 Sistemul Varasoaia (V5-V24);Romania;Bihor;Mtii Bihor;28000,00;28000;653,00;653;0;Limestone;Alex Pologea e-mal;2017;4
+D347;Poza los Fuexos de Cueva Palacios;Spain;Asturias;Pena Ubina;1194,00;1194;654,00;654;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D346;Scialet Zakapouât;France;Auvergne-Rhìne-Alpes;-;1350,00;1350;655,00;655;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D345;Sistema Conhurtau;Spain;Asturias;Picos de Europa;2435,00;2435;655,00;655;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D344;Les cinq Scialets - Hachoir Ö Viande;France;Auvergne-Rhìne-Alpes;-;3441,00;3441;655,00;655;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D343;Heavy Breather System;Canada;BC;Rockies;6150,00;6150;655,00;655;0;Limestone;Canada Long and Deep Caves Assembled by Pat Shaw;2022;8
+45;Reseau de l'Alpe;France;Isere / Savoie;Chartreuse;72300,00;72300;655,00;655;0;Limestone;Liste des cavites naturelles les plus longues de France;2019;4
+D341;Räseau de la Pointe de Sans Bet;France;Auvergne-Rhìne-Alpes;-;8000,00;8000;656,00;656;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+128;Sistema Cuetzalan - Atepolihuit;Mexico;Puebla;Curtzalan;37676,00;37676;658,00;658;0;Limestone;Mark Minton e-mail;2016;6
+D339;Systema de los Tres Amigos (Te Chan Xki);Mexico;Oaxaca;;0,00;0;659,00;659;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+536;PinargozÅ Magarasi;Turkey;Isparta;Yenisarbademli;12000,00;12000;660,00;660;0;Limestone;Caves and Caving I72;2020;11
+644;Tanne de Chavanu;France;Auvergne-Rhìne-Alpes;-;10413,00;10413;662,00;662;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+185;ôtscherhîhlensystem;Austria;ôtscher;Niederîsterreich;28608,00;28608;662,00;662;0;Limestone;Lukas Plan email;2024;6
+D335;Räseau de Balacha;France;Auvergne-Rhìne-Alpes;-;4576,00;4576;665,00;665;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D334;Cueva Santo Cavernario + Tototzil Chichiltic;Mexico;Puebla;-;0,00;0;667,00;667;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D331;Paka Sala;Slovenia;Coastal Region;Lov?en;1556,00;1556;667,40;667;0;Limestone;Jure Ti?ar email;2025;1
+D332;Pala Skala;Montenegro;Coastal Region;Lovcen;1556,00;1556;667,40;667;0;Limestone;Jure Ticar email;2025;1
+D333;Aven du CaladIre;France;Alpes-Cìte d'Azur;-;1850,00;1850;667,00;667;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+304;Woising-Hîhlensystem;Austria;Totes Gebirge;Stmk/Oô;19529,00;19529;669,00;669;0;Limestone;Lukas Plan email;2024;6
+88;Trou qui souffle;France;Isere;Vercors;49300,00;49300;670,00;670;0;Limestone;Liste des cavites naturelles les plus longues de France;2019;4
+D328;Abismo Guy Collet (Quartzite);Brazil;Barcelos-AM;-;896,00;896;671,00;671;0;Sandstone;Anais do XXIX Congresso Brasileiro de Espeleologia;2016;6
+D327;S¢tano de Alfredo;Mexico;QuerÇtaro;-;0,00;0;673,00;673;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D326;Gouffre de Gournier;France;Auvergne-Rhìne-Alpes;-;1850,00;1850;675,00;675;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D325;Pozu Hoceherreru;Spain;Asturias;Picos de Europa;1984,00;1984;677,00;677;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D324;Koboldschacht;Austria;Hoher Gîll;Salzburg;2100,00;2100;677,00;677;0;Limestone;Lukas Plan email;2024;6
+336;Grotte de Gournier;France;Isere;Vercors;18000,00;18000;680,00;680;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D322;Devettisoca jama;Slovenia;Raduha;-;2205,00;2205;681,00;681;0;Limestone;List of Slovenia's Longest & Deepest;2021;10
+D321;Torca de la Nieve (2.N);Spain;Cantabria;Picos de Europa;0,00;0;683,00;683;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D320;Herbsthîhle;Austria;Loferer Steinberge;Salzburg;1015,00;1015;684,00;684;0;Limestone;Lukas Plan email;2024;6
+D319;BÑrengasse-Windschacht;Austria;Dachstein;Oberîsterreich;900,00;900;687,00;687;0;Limestone;Lukas Plan email;2024;6
+D318;Sistema de Carnizosu;Spain;Asturias;Picos de Europa;4000,00;4000;687,00;687;0;Limestone;Jose Luis Membrado e-mail;2021;5
+585;A2, Loubenegg;Switzerland;Beatenberg;BE;11148,00;11148;687,00;687;0;Limestone;List of Swiss Long k& Deep Caves;2022;3
+D316;Scialet des Pullis;France;Auvergne-Rhìne-Alpes;-;2394,00;2394;688,00;688;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D315;Bisaro Anima;Canada;BC;Rockies;7678,00;7678;688,00;688;0;Limestone;Canada Long and Deep Caves Assembled by Pat Shaw;2022;8
+D314;Torca Llerosa;Spain;Asturias;Picos de Europa;1720,00;1720;690,00;690;0;Limestone;Jose Luis Membrado e-mail;2021;5
+D313;Gouffre de la Rasse;France;Auvergne-Rhìne-Alpes;-;2100,00;2100;690,00;690;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D312;Klondike-Kloce-Hîhlensystem;Austria;Karnische Alpen;KÑrnten / ITALIEN;5500,00;5500;690,00;690;0;Limestone;Lukas Plan email;2024;6
+74;Reseau de la Dent de Crolles;France;Isere;Chartreuse;55407,00;55407;690,00;690;0;Limestone;Buchaly, Waldbrener;2019;4
+100;Frauenmauer-Langstein-Hîhlensystem;Austria;Hochschwab;Steiermark;45143,00;45143;692,00;692;0;Limestone;Lukas Plan email;;
+D309;S¢tano de los Planos;Mexico;Puebla;-;0,00;0;694,00;694;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D308;Geburtstagsschacht;Germany;Bavaria;-;1683,00;1683;698,00;698;0;Limestone;Andreas Wolf List of Longest Caves in Germany;2021;2
+D307;Gouffre Romy;France;Nouvelle-Aquitaine;-;6060,00;6060;699,00;699;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D306;Aztotempa;Mexico;Puebla;-;0,00;0;700,00;700;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D305;Gouffre des Moris vivants;France;Auvergne-Rhìne-Alpes;-;2200,00;2200;700,00;700;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D304;Slovacka jasky§a na Karadzici (Ceki 1);North Macedonia;-;Pateau Jakupica;3609,00;3609;700,00;700;0;Limestone;Martin Siuka e-mail;2016;6
+614;Poloska jama;Slovenia;Zaledje Tolminke;-;10800,00;10800;704,00;704;0;Limestone;List of Slovenia's Longest & Deepest;2016;5
+D302;Meduza;Croatia;Sjeverni Velebit;Ro?anski kukovi;1604,00;1604;706,00;706;0;Limestone;Aida Bari?ic e-mail, Speleology Commission of the Croation Mountaineering Association;2023;1
+D301;Gouffre de la Consolation;France;Nouvelle-Aquitaine;-;3448,00;3448;711,00;711;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+102;KolkblÑser-Monsterhîhle-System;Austria;Steinernes Meer;Salzburg;44487,00;44487;711,00;711;0;Limestone;Lukas Plan email;2024;6
+D299;Kecili Duden;Turkey;Anttaalya;;1830,00;1830;712,00;712;0;Limestone;mevlut yildiz e-mail;2017;6
+266;Grotte d'Arphidia;France;Pyrenees-Atlantiques;Pierre Saint Martin;22575,00;22575;712,00;712;0;Limestone;Jean-Yves Bigot;2016;1
+D297;Furtowischacht;Austria;Hochschwab;Steiermark;1650,00;1650;713,00;713;0;Limestone;Lukas Plan email;2024;6
+581;Bohemia Cave;New Zealand;South Island;Mt Owen;11230,00;11230;713,00;713;0;Limestone;Lindsay Main NZ Speleological Soc. Info Officer;2016;1
+D295;Cueva Buchaquera;Spain;Huesca;Pirineos;0,00;0;714,00;714;0;Limestone;Jose Luis Membrado e-mail;2016;6
+D294;Torca la Oveya (Torca la Cumbre);Spain;Asturias;Picos de Europa;0,00;0;715,00;715;0;Limestone;Jose Luis Membrado e-mail;2021;10
+D293;Bretterschacht;Austria;Tennengebirge;Salzburg;4494,00;4494;715,00;715;0;Limestone;Lukas Plan email;2024;6
+491;Räseau Median du clos d'Aspres;France;-;-;12950,00;12950;715,00;715;0;Limestone;Eric Madelanine list;2006;7
+D291;Sima de Ukerdi Abajo;Spain;Nafarroa;Piedra San Martin;0,00;0;717,00;717;0;Limestone;Jose Luis Membrado e-mail;2016;6
+353;Sima del Aire;Spain;Malaga;Sierra de las Nieves;17218,00;17218;720,00;720;0;Limestone;Jose Luis Membrado e-mail;2025;1
+101;Grotte de la Diau;France;Haute Savoie;Parmelan;45000,00;45000;720,00;720;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D288;Gouffre Georges;France;Auvergne-Rhìne-Alpes;-;3490,00;3490;721,00;721;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+453;HH Cave (Honeycomb Hill);New Zealand;South Island;Mt Arthur;13712,00;13712;721,00;721;0;Limestone;Lindsay Main NZ Speleological Soc. Info Officer;2016;1
+D286;kef Toghobeãt;Morocco;Rif;Bab Taza;3918,00;3918;722,00;722;0;Limestone;Atlas of the Great Caves and Karst of Africa Part 2 P215;;
+D285;Sternes;Greece;Crete;Levka Ori;7740,00;7740;722,00;722;0;Limestone;Panagiotis Papadakos email;2024;10
+D284;Torca del Picu Boru;Spain;Cantabria;Picos de Europa;0,00;0;723,00;723;0;Limestone;Jose Luis Membrado e-mail;2016;6
+D283;Voodoo-Canyon;Austria;Dachstein;Stmk/Oô;4354,00;4354;723,00;723;0;Limestone;Lukas Plan email;2024;6
+D282;Räseau de Bovinant;France;Auvergne-Rhìne-Alpes;-;6836,00;6836;723,00;723;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D281;Shpella Valbones;Albania;Kuke?;Rrogam/Valbona;2411,00;2411;725,00;725;0;Limestone;Mariusz Polok email;2025;3
+D280;Räseau Trois Dents - Quäbe de Coiche;France;Nouvelle-Aquitaine;-;3100,00;3100;726,00;726;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D279;Sima de Cotalbin;Spain;Leon;Picos de Europa;0,00;0;727,00;727;0;Limestone;Jose Luis Membrado e-mail;2016;6
+D278;Couey Lotge;France;Nouvelle-Aquitaine;-;7500,00;7500;728,00;728;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D277;Wieserloch;Austria;Leoganger Steinberge;Salzburg;3000,00;3000;730,00;730;0;Limestone;Lukas Plan email;2024;6
+D276;Gouffre de;France;Nouvelle-Aquitaine;-;8745,00;8745;733,00;733;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D275;Torca Tejera;Spain;Asturias;Picos de Europa;0,00;0;738,00;738;0;Limestone;Jose Luis Membrado e-mail;2016;9
+D274;Nita Xong†;Mexico;Oaxaca;-;0,00;0;739,00;739;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D273;Sonyance;Mexico;Oaxaca;-;0,00;0;740,00;740;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D272;Reseau Ded;France;Isere;Saint-pe-de-Chartreuse;250,00;250;740,00;740;0;Gypsum;Liste des cavites naturelles les plus longues de France;2002;7
+442;K2, Hohgant;Switzerland;Bern;Habkern;13996,00;13996;741,00;741;0;Limestone;http://ch.speleo.info;2009;7
+D270;Pigpen 2;Austria;Dachstein;Oberîsterreich;2166,00;2166;742,00;742;0;Limestone;Lukas Plan email;2024;6
+D269;Der unheimliche Schacht;Austria;Tennengebirge;Salzburg;1000,00;1000;747,00;747;0;Limestone;Lukas Plan email;2024;6
+D268;Schacht der Verlorenen;Austria;Tennengebirge;Salzburg;4303,00;4303;748,00;748;0;Limestone;Lukas Plan email;2024;6
+658;Jack Daniel's Hîhle;Austria;Tennengebirge;Salzburg;10218,00;10218;748,00;748;0;Limestone;Lukas Plan email;2024;6
+D266;Abisso Obelix;Italy;Veneto;Lusiana;0,00;0;750,00;750;0;Limestone;Speleologia N68P102-103;2016;6
+D265;Ghar Parau;Iran;Kermanshah;Kuh-e-Parau;1364,00;1364;752,00;752;0;Limestone;www.sop.inria.fr/agos-sophia/sis/DB/;2019;7
+D264;Ariadnahîhle;Austria;Tennengebirge;Salzburg;5567,00;5567;752,00;752;0;Limestone;Lukas Plan email;2024;6
+D263;Sistema H31-h32-H35;Mexico;Puebla;-;0,00;0;753,00;753;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D262;Schauriger Schacht C13;Austria;Loferer Steinberge;Salzburg;1035,00;1035;753,00;753;0;Limestone;Lukas Plan email;2024;6
+D261;Orkanhîhle;Austria;Dachstein;Oberîsterreich;1572,00;1572;754,00;754;0;Limestone;Lukas Plan email;2024;6
+D260;Tears of the Turtle Cave;USA;Montana;Flathead;3025,60;3025;755,00;755;0;Limestone;Jason Ballensky & Peter Johnson e-mail;2024;8
+42;Bulmer Caverns ( Castle Keep - Gormenghast);New Zealand;South Island;Mt Owen;74316,00;74316;755,00;755;0;Limestone;Lindsay Main NZ Speleological Soc. Info Officer;2016;9
+459;Complesso di Conca delle Carsene;Italy;-;-;13500,00;13500;759,00;759;0;Limestone;www.sop.inria.fr/agos-sophia/sis/DB/;2017;4
+D257;Complesso S20-S31-FDZ2;Italy;Friuli VG;Canin Massif;560,00;560;760,00;760;0;Limestone;www.sop.inria.fr/agos-sophia/sis/DB/;2017;4
+D256;Abisso Dei Fulmini;Italy;Friuli VG;Canin Massif;1000,00;1000;760,00;760;0;Limestone;www.sop.inria.fr/agos-sophia/sis/DB/;2017;4
+D255;Nita Ka;Mexico;-;-;1813,00;1813;760,00;760;0;Limestone;www.sop.inria.fr/agos-sophia/sis/DB/;2017;4
+531;Sniezna Studnia;Poland;-;Tatra Mountains;12050,00;12050;763,00;763;0;Limestone;Polish Caving 2005-2020 09;2021;2
+D253;Gouffre de la Menere;France;Hautes Pyrenees;Saint-Pe-de-Bigorre;0,00;0;765,00;765;0;Gypsum;Le Karst Du Gypse, Jean Yves Bigot Page 86-87;2002;7
+622;Warwas-Glatzen-Hîhlensystem;Austria;KrÑuterin;Steiermark;10702,00;10702;765,00;765;0;Limestone;Lukas Plan email;2024;6
+594;Räseau de la Täte des Verds;France;Auvergne-Rhone-Alpes;-;11000,00;11000;768,00;768;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D250;Grafskiy Proval;Georgia;Abkhazia;West Caucasus;1750,00;1750;770,00;770;0;Limestone;www.rgo-speleo.ru/caves/bzyb/graf_r.gif;2017;4
+D249;Abisso Sisma-Fonda-Laricetto;Italy;Friuli VG;Canin Massif;4000,00;4000;770,00;770;0;Limestone;www.caverinfo.com;2016;3
+217;Labyrinthhîhle im Eisernen Bergl;Austria;Warscheneck;Oberîsterreich;25386,00;25386;771,00;771;0;Limestone;Lukas Plan email;2024;6
+190;Kuchlberg-Hîhlensystem;Austria;Tennengebirge;Salzburg;28108,00;28108;771,00;771;0;Limestone;Lukas Plan email;2024;6
+D246;Jama na Vjetrenom Brdima;Montenegro;Crna Gora;Durmitor;0,00;0;775,00;775;0;Limestone;web;;
+D245;Da Keng;China;Chongqing;Wulong;4272,00;4272;775,00;775;0;Limestone;www.sop.inria.fr/agos-sophia/sis/DB/;2017;4
+179;Grie·kar-Hîhlensystem;Austria;Totes Gebirge;Stmk/Oô;29724,00;29724;779,00;779;0;Limestone;Lukas Plan email;2024;6
+D242;Sistema del Col Lopic;Italy;Friuli VG;Chiusaforte;0,00;0;780,00;780;0;Limestone;Speleologia N68P102-103;2016;6
+D243;Complesso Faraonc-Fanaccia;Italy;Toscana;Minucciano;0,00;0;780,00;780;0;Limestone;Speleologia N68P102-103;2016;6
+388;Complesso Cappa-18-Denver-Straldi;Italy;Piemonte;Briga Alta;16000,00;16000;780,00;780;0;Limestone;Speleologia N68P102-103;2016;6
+D240;Kreuzhîhle;Austria;Loferer Steinberge;Salzburg;4025,00;4025;782,00;782;0;Limestone;Lukas Plan email;2024;6
+D239;Tropik-Hîhlensystem;Austria;Leoganger Steinberge;Salzburg;5381,00;5381;783,00;783;0;Limestone;Lukas Plan email;2024;6
+D238;poza Trasllambrion (CL.10-LL.8);Spain;Leon;Picos de Europa;0,00;0;786,00;786;0;Limestone;Jose Luis Membrado e-mail;2017;11
+D237;Amfora;Croatia;Dalmacija;Biokovo;468,00;468;788,00;788;0;Limestone;Aida Bari?ic e-mail;2019;9
+D236;Yu† Nita;Mexico;Oaxaca;-;0,00;0;789,00;789;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D235;"Abisso ""Queen Mama""";Italy;Friuli VG;Chiusaforte;0,00;0;790,00;790;0;Limestone;Speleologia N68P102-103;2016;6
+D233;Torca de la Mina Tere;Spain;Cantabria;Picos de Europa;0,00;0;792,00;792;0;Limestone;Jose Luis Membrado e-mail;2016;6
+D234;Torca de los Hoyos;Spain;Sengros;;0,00;0;792,00;792;0;Limestone;Jose Luis Membrado e-mail;2025;3
+D232;Abisso del Col della Rizza;Italy;Friuli VG;Caneva;0,00;0;795,00;795;0;Limestone;Speleologia N68P102-103;2016;6
+D231;Abisso Capitano Paff;Italy;Lombardia;Grigna Settentrionale;1400,00;1400;795,00;795;0;Limestone;www.sop.inria.fr/agos-sophia/sis/DB/;2017;4
+D230;Reseau Paloume;France;Ariege;Balgueres;9994,03;9994;795,00;795;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D229;Pozo Bajo Del Sedo;Spain;Leon;Picos de Europa;0,00;0;798,00;798;0;Limestone;Jose Luis Membrado e-mail;2016;6
+D228;Avenul de sub VÉrful Grind;Romania;Arge?;Piatra Craiului Mtns.;1500,00;1500;800,00;800;0;Limestone;Alex Pologea e-mail, https://speologie.org/;2023;11
+D227;Buca dell Aria Ghiaccia (di Cerignano??);Italy;Toscana;Alpi Apuane;7000,00;7000;800,00;800;0;Limestone;http://www.Class.del.g.piulunghe/profon.d'Italia;2017;6
+D226;Cabrihîhle;Austria;Tennengebirge;Salzburg;1056,00;1056;801,00;801;0;Limestone;Lukas Plan email;2024;6
+D225;Sima Presta;Spain;Malaga;Sierra de las Nieves;1860,00;1860;803,00;803;0;Limestone;Jose Luis Membrado e-mail;2025;1
+D224;Torca de la Horcadina (L6);Spain;Leon;Picos de Europa;3285,00;3285;803,00;803;0;Limestone;.;2016;7
+D223;Puts dets Tachous;France;Hautes Pyrenees;Saint-Pe-de-Bigorre;4500,00;4500;804,00;804;0;Limestone;Jean-Yves Bigot;2016;1
+D222;Thorhîhle;Austria;Tennengebirge;Salzburg;8504,00;8504;804,00;804;0;Limestone;Lukas Plan email;2024;6
+182;Bettenhohle;Switzerland;Obwalden;Kerns;29484,00;29484;804,00;804;0;Limestone;http://ch.speleo.info;2009;7
+D220;Complesso Modonutti-Savoia;Italy;Friuli VG;Alpi Giulie;1000,00;1000;805,00;805;0;Limestone;http://www.Class.del.g.piulunghe/profon.d'Italia;2017;6
+D219;Anou Boussouil;Algeria;Bouira;Djurdjura Range;3200,00;3200;805,00;805;0;Limestone;Spelunca #9;2017;6
+D218;Torca de Cabeza Llambrera (MS 42)Sil De Olidesa;Spain;Leon;Picos de Europa;0,00;0;806,00;806;0;Limestone;Jose Luis Membrado e-mail;2017;11
+D217;Sistema Nevero - Agua;Spain;Malaga;Sierra de las Nieves;8365,00;8365;806,00;806;0;Limestone;Jose Luis Membrado e-mail;2025;1
+526;Lofererschacht;Austria;Loferer Steinberge;Salzburg;12126,00;12126;806,00;806;0;Limestone;Lukas Plan email;2024;6
+223;Gouffre Lonne-Peyret (Reseau des Arres Planeres);France;Pyrenees-Atlantiques;Pierre Saint Martin;25086,00;25086;807,00;807;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+593;Grotte des Eaux Chaudes;France;Pyrenees-Atlantiques;Pic de Ger;11000,00;11000;810,00;810;0;Limestone;Jean-Yves Bigot;2016;1
+D213;X'oy Tixa Nita;Mexico;Oaxaca;-;0,00;0;813,00;813;0;Limestone;International Caver No.1;1991;10
+19;Sistema del Gandara;Spain;Cantabria;Porracolina;119000,00;119000;814,00;814;0;Limestone;Jose Luis Membrado e-mail;2024;2
+D211;Pionerskaja;Georgia;Abkhazia;West Caucasus;1700,00;1700;815,00;815;0;Limestone;.sgs.erl.e-burg.su/~sigalov/clist.html;1997;2
+D210;Sotano Tres Quimeras;Mexico;Puebla;Sierra Negra;5200,00;5200;815,00;815;0;Limestone;Desent 209;2016;9
+D209;Botrova-Brezno pri gamsovi Glavici;Slovenia;Prsivec;Bohinjske planine;6000,00;6000;817,00;817;0;Limestone;Speleological Association of Slovenia, Cave Register;2016;3
+D208;Sima AN.8;Spain;Nafarroa;Larra;9192,00;9192;819,00;819;0;Limestone;Jose Luis Membrado e-mail;2017;4
+D207;Resumidero de El Borbollon;Mexico;San Luis Potosi;-;0,00;0;821,00;821;0;Limestone;http://www.amcs-pubs.org/longanddeep.html;2016;1
+D206;Grutred-Hîhlensystem;Austria;Hoher Gîll;Salzburg;7015,00;7015;821,00;821;0;Limestone;Lukas Plan email;2024;6
+D205;Reseau Tasques - Krakoukas;France;Pyrenees-Atlantiques;Iseye;6000,00;6000;822,00;822;0;Limestone;Xavier Robert e-mail;2019;4
+242;jaskinia Wielka Sniezna;Poland;Czerwone Wierchy;Malolaczniak;23723,00;23723;824,00;824;0;Limestone;https://en.wikipedia.org/wiki/Jaskinia_Wielka_%C5%9Anie%C5%BCna;2021;2
+D203;Abisso Oriano Coltelli;Italy;Toscana;Vagli di Sotto;0,00;0;825,00;825;0;Limestone;Speleologia N68P102-103;2016;6
+346;Sistema de Partacua;Spain;Huesca;Pirineos;17427,00;17427;825,00;825;0;Limestone;Jose Luis Membrado e-mail;2018;8
+343;Tanne aux Cochons - Tanne Froide;France;Savoie;margeriaz;17694,00;17694;825,00;825;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+129;Sistema Cueto-Coventosa-Cubera-Garma Bucebr¢n-Corzo;Spain;Cantabria;Porracolina;37258,00;37258;829,00;829;0;Limestone;Jose Luis Membrado e-mail;2021;1
+D199;Hard Rock Cave;Mexico;Oaxaca;-;0,00;0;830,00;830;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+59;Jamski sustav Crnopac;Croatia;Juzni Velebit;Crnopac;63746,00;63746;830,00;830;0;Limestone;Aida Barisic;2024;10
+D197;Torca del Cueto de los Calabreros (Torca T 173);Spain;Cantabria;Picos de Europa;0,00;0;831,00;831;0;Limestone;Caves and Caving N31;1986;2
+D196;Mokre noge;Croatia;Dalmacija;Ladana;1563,00;1563;831,00;831;0;Limestone;Deep cave list Croatia;2019;9
+D195;Kuyukuyu;Turkey;Dedegol Dag;-;1231,00;1231;832,00;832;0;Limestone;Spelunca #63;;
+D194;Sotano de Trinidad;Mexico;San Luis Potosi;Xilitla;2780,00;2780;834,00;834;0;Limestone;Atlas - Great Caves of the World;2017;6
+62;Arresteliako ziloa(Souffleur de Larrandaburu);France;Pyre. Atlantiques/Navarr;Pierre Saint Martin;60943,00;60943;835,00;835;0;Underwater;Die langsten Unterwasserholensysteme der Welt;2019;4
+D192;Torca de la Padiorna;Spain;Cantabria;Picos de Europa;1590,00;1590;836,00;836;0;Limestone;List of Spains Longest & Deepest (WWW);1998;4
+D191;Sotano de El Berro;Mexico;Veracruz;Queretaro;2029,00;2029;838,00;838;0;Limestone;Mark Minton;1995;12
+D190;Sima de los Hoyos de la Yesca;Spain;Cantabria;Mortilliano;0,00;0;840,00;840;0;Limestone;Jose Luis Membrado e-mail;2016;1
+D189;Gipfelloch;Austria;Tennengebirge;Salzburg;2570,00;2570;840,00;840;0;Limestone;Lukas Plan email;2024;6
+D188;Wan zhang keng (Da Keng);China;Chongqing;Fuling;2110,00;2110;841,80;841;0;Limestone;LIU JIA e-mail;2019;4
+D187;Abisso del Corno di Campobianco;Italy;Veneto;Asiago;0,00;0;846,00;846;0;Limestone;Speleologia N68P102-103;2016;6
+260;Burgunderschacht;Austria;Totes Gebirge;Steiermark;22795,00;22795;848,00;848;0;Limestone;Lukas Plan email;2024;6
+85;Sistema de Anielarra (Anialarra);Spain;Nafarroa;Larra;50161,00;50161;853,00;853;0;Limestone;Jose Luis Membrado e-mail;2025;1
+D184;Gruberhornhîhle;Austria;Hoher Gîll;Salzburg;6700,00;6700;854,00;854;0;Limestone;Lukas Plan email;2024;6
+D183;Hîhle in Roten Steinen;Austria;Hagengebirge;Salzburg;1717,00;1717;855,00;855;0;Limestone;Lukas Plan email;2024;6
+D182;BC-10 (Kanin);Slovenia;Kaninski podi;-;2135,00;2135;856,00;856;0;Limestone;List of Slovenia's Longest & Deepest;2021;10
+D181;Velika lebinca jama v Paradani;Slovenia;Tmovski gozd;Uding Borst;7311,00;7311;858,00;858;0;Limestone;Marko Erker e-mail;2020;4
+D180;Trunkenboldschacht;Austria;Totes Gebirge;Oberîsterreich;1700,00;1700;859,00;859;0;Limestone;Lukas Plan email;2024;6
+D179;Tafkoura;Greece;Crete;Anogia-Petradolakia;6570,00;6570;860,00;860;0;Limestone;Panagiotis Papadakos email;2024;10
+D178;Pozzo nel Dito;Italy;;Grigna. Settentrionale;2789,00;2789;862,00;862;0;Limestone;Andrea Maconi e-mail;2021;10
+D177;Pozu del Porru la Capilla;Spain;Asturias;Picos de Europa;1758,00;1758;863,00;863;0;Limestone;Jose Luis Membrado e-mail;2016;7
+D176;Antre des Damnes;France;Isere;Correncon;5000,00;5000;865,00;865;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D175;Abyss under the Lift;Slovenia;-;Kaninski podi;1702,00;1702;869,00;869;0;Limestone;"ˇ???""";2017;4
+D174;Brezno pod Zicnico;Slovenia;-;Kanin;2531,00;2531;875,00;875;0;Limestone;Bogomir Remskar e-mail;2017;12
+153;Sistema Oztotl (Rosetta-Tepetzala);Mexico;Puebla;-;34188,00;34188;878,00;878;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D172;Abisso dei Draghi Volante(i);Italy;Toscana;Alpi Apuane;1800,00;1800;880,00;880;0;Limestone;Class.del.g.piu lunghe/profon.d'Italia;2017;6
+D171;Bela Griza 1 (White dysentery);Slovenia;-;Trnovski gozd;2054,00;2054;884,00;884;0;Conglomerate;Speleological Association of Slovenia, Cave Register;2016;3
+D170;Hochlecken-Gro·hîhle;Austria;Hîllengebirge;Oberîsterreich;6571,00;6571;884,00;884;0;Limestone;Lukas Plan email;2024;6
+115;Silberensystem (Schwyzerschacht);Switzerland;Schwyz;Muotatal;39144,00;39144;888,40;888;0;Limestone;List of Swiss Long k& Deep Caves;2009;7
+D168;Fledermauscanyn;Germany;Bavaria;-;3668,00;3668;891,00;891;0;Limestone;Andreas Wolf List of Longest Caves in Germany;2021;2
+D167;Nita Cho;Mexico;Oaxaca;-;2357,00;2357;894,00;894;0;Limestone;Deep Caves of Mexico - Peter Sprouse;1989;9
+D166;Gouffre Touya de Liet;France;Pyrenees-Atlantiques;Iseye;5000,00;5000;894,00;894;0;Limestone;Jean-Yves Bigot;2016;1
+D165;Resumidero de la Joya Jonda (Hoya Honda);Mexico;San Luis Potosi;-;0,00;0;895,00;895;0;Limestone;http://www.mexicancaves.org/geninfo/longanddeep.html;2019;3
+D164;Räseau des Zorziäres;France;Auvergne-Rhìne-Alpes;-;9774,00;9774;899,00;899;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D163;Ouso di Passo Pratiglio;Italy;Lazio;Monti Lepini;1850,00;1850;900,00;900;0;Limestone;http://blog.libero.it/Lepinia/;2020;7
+D162;Gorlo Barloga;Russia;Karachaevo/Cherkesia;Nord-West Caucasus;3000,00;3000;900,00;900;0;Limestone;www.perovo-speleo.ru/cave/gb/gb.php;2016;3
+150;Sistema de la Pena de Mediodia;Spain;Huesca;Pirineos;34707,00;34707;902,00;902;0;Limestone;Jose Luis Membrado e-mail;2023;4
+355;Sistema la Verdilluenga;Spain;Asturias;Picos de Europa;17196,00;17196;905,00;905;0;Limestone;Jose Luis Membrado e-mail;2017;11
+D159;Abisso Cul di Bove;Italy;Molise;Matese;5000,00;5000;906,00;906;0;Limestone;http://www.Class.del.g.piulunghe/profon.d'Italia;2017;6
+D158;Sistema Perrito (Nia Nga'co Nita & Nia Quien);Mexico;Oaxaca;Zongolica Reg.;7148,00;7148;906,00;906;0;Limestone;http://www.amcs-pubs.org/longanddeep.html;1999;4
+D157;Brezno pod velbom-Ceska Jama;Slovenia;-;Kaninski podi;2665,00;2665;910,00;910;0;Conglomerate;Speleological Association of Slovenia, Cave Register;2016;3
+D156;Torca del Jou de Cerredo;Spain;Asturias;Picos de Europa;2325,00;2325;912,00;912;0;Limestone;Jose Luis Membrado e-mail;2017;11
+3;Suiyang Shuanghe Dongqun;China;Guizhou;Suiyang;417696,00;417696;912,00;912;0;Limestone;www.grottes-et-karsts-de-chine.org;2024;1
+606;Trou Souffleur;France;Alpes-Cìte d'Azur;-;10853,00;10853;921,00;921;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D152;Trnulj?ica;Slovenia;Kanin;Skala nad Glavo;1224,80;1224;924,20;924;0;Limestone;Jure Ti?ar email;2025;1
+D153;Trnuljcica;Slovenia;Kanin;Skala nad Glavo;1224,80;1224;924,20;924;0;Limestone;Jure Ticar email;2025;1
+D151;Abisso dello Gnomo;Italy;Toscana;Alpi Apuane;5343,00;5343;925,00;925;0;Limestone;http://www.Class.del.g.piulunghe/profon.d'Italia;2017;6
+D150;Gouffre du Cambou de Liard 2;France;Pyrenees-Atlantiques;Iseye;2500,00;2500;926,00;926;0;Limestone;Atlas Des Grands Gouggres Du Monde;2017;6
+171;Grotta di Monte Cucco;Italy;Umbria;Monte Cucco;31300,00;31300;929,00;929;0;Limestone;Class.del.g.piu lunghe/profon.d'Italia;2009;7
+D148;Pozo de Vega Huerta (M.921, Poza Thesaurus Fragilis);Spain;Leon;Picos de Europa;0,00;0;930,00;930;0;Limestone;Jose Luis Membrado e-mail;2016;1
+D147;Cave Njemica;Croatia;Biokovo;Bukovac;1741,00;1741;934,00;934;0;Limestone;Aida Bari?ic e-mail;2020;12
+D146;Schnee-Maria-Hîhle;Austria;Tennengebirge;Salzburg;2956,00;2956;935,00;935;0;Limestone;Lukas Plan email;2024;6
+484;Complesso (Sotterranceo) del Col Delle Erbe;Italy;Friuli VG;Canin Massif;13000,00;13000;935,00;935;0;Limestone;http://www.Class.del.g.piulunghe/profon.d'Italia;2017;6
+D144;Pozu de Cabeza Muxa;Spain;Asturias;Picos de Europa;2650,00;2650;939,00;939;0;Limestone;Espeleoleg;1991;12
+480;Festival'naya-Ledopadnaya (Dark Star);Uzbekistan;-;-;13000,00;13000;939,00;939;0;Limestone;Olaf KÑhler e-mail;2018;2
+D142;Torca Marino;Spain;Leon;Picos de Europa;0,00;0;943,00;943;0;Limestone;Jose Luis Membrado e-mail;2016;1
+D141;Tune des Renards;France;Alpes-Cìte d'Azur;-;2780,00;2780;946,00;946;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D140;Mittehîhle P-D27;Austria;Tennengebirge;Salzburg;3055,00;3055;947,00;947;0;Limestone;Lukas Plan email;2024;6
+D139;Pozo del Llastral ( Beta-3 );Spain;Leon;Picos de Europa;0,00;0;949,00;949;0;Limestone;Espeleoleg;1990;12
+15;Sistema del Mortillano;Spain;Cantabria;Porra de Mortillano;148003,00;148003;950,00;950;0;Limestone;Jose Luis Membrado e-mail;2024;11
+D137;Guixani N'dia Kijao;Mexico;Oaxaca;Zongolica;2292,00;2292;955,00;955;0;Limestone;http://www.amcs-pubs.org/longanddeep.html;1999;4
+28;Sistema Purificacion;Mexico;Tamaulipas;Villa Hidalgo;101298,00;101298;955,00;955;0;Limestone;ˇPeter Sprouse message;2023;5
+D135;Napra;Georgia;Abkhazia;West Caucasus;3170,00;3170;956,00;956;0;Limestone;Caves and Caving N28P13;2016;5
+527;Sistema del Jou la Canal Parda - Canaiïn de los Desvios;Spain;Asturias;Picos de Europa;12119,00;12119;956,00;956;0;Limestone;Jose Luis Membrado e-mail;2020;8
+D133;Sistema Cembavieya-Parodia;Spain;Asturias;Picos de Europa;9056,00;9056;957,00;957;0;Limestone;Jose Luis Membrado e-mail;2023;4
+D132;Abisso delle Spade;Italy;Lombardia;Grigna. Settentrionale;3050,00;3050;960,00;960;0;Limestone;Andrea Maconi e-mail;2021;10
+140;Complesso di Piaggia Bella;Italy;Piemonte;Marguareis;35500,00;35500;961,00;961;0;Limestone;http://www.Class.del.g.piulunghe/profon.d'Italia;2009;7
+D130;Xiao Zhai Tiankeng Dong;China;Chongqing;Fengjie;5197,00;5197;964,00;964;0;Limestone;http://www.grottes-et-karsts-de-chine.org/npds/gkc_gro.php?op=deve;1996;3
+187;Sistema de Tepepa (Ehecatl+Niebla);Mexico;Puebla;-;28500,00;28500;968,00;968;0;Limestone;Desent 209;2016;9
+D128;Schartenschacht;Austria;Hoher Gîll;Salzburg;2542,00;2542;972,00;972;0;Limestone;Lukas Plan email;2024;6
+D127;Pozo de Cuetalbo (M2);Spain;Leon;Picos de Europa;3090,00;3090;972,00;972;0;Limestone;Jose Luis Membrado e-mail;2023;4
+104;Migovec (Vrtnarija) System (M-16);Slovenia;Primorska;zaledje Tolminke;43588,00;43588;972,00;972;0;Conglomerate;Marko Erker e-mail;;
+D125;Torca del Valle del Agua;Spain;Asturias;Picos de Europa;9082,00;9082;974,00;974;0;Limestone;Jose Luis Membrado e-mail;2016;10
+36;Barenschacht;Switzerland;Bern;Beatenberg;86026,00;86026;979,00;979;0;Limestone;Rolf Siegenthaler e-mail;2009;7
+D123;Chourum des Aiguilles;France;Hautes Alpes;Devoluy;6100,00;6100;980,00;980;0;Limestone;Jean-Yves Bigot;2016;1
+D122;Spluga della Preta;Italy;Veneto;Monti Lessini;4372,00;4372;985,00;985;0;Limestone;Caver Tim;2018;10
+D121;Kievskaja;Uzbekistan;Uzbekistan;Gissaro-Alay;2340,00;2340;990,00;990;0;Limestone;sgs/erl.e-burg.su/~sigalov/clist.html;2018;2
+D120;Torca Tortorios (Pena Carbonal, CT.1);Spain;Asturias;Picos de Europa;7781,00;7781;993,00;993;0;Limestone;Jose Luis Membrado e-mail;2016;10
+D119;Tanne de la Canicule ou SD 27;France;Auvergne-Rhìne-Alpes;-;1082,00;1082;994,00;994;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+22;Reseau Felix Trombe / Henne-Morte;France;Haute-Garonne;Coume Ouarnede;117263,00;117263;1001,00;1001;0;Limestone;Liste des cavites naturelles les plus longues de France;2019;4
+509;Complesso del Monte Tambura;Italy;Toscana;Alpi Apuane;12500,00;12500;1008,00;1008;0;Limestone;"Ettore Callegari e-mail;";2016;3
+131;Sistema Lecherines;Spain;Huesca;Macizo de Aspe;37000,00;37000;1009,00;1009;0;Limestone;Jose Luis Membrado e-mail;2023;12
+D115;Caverne du Brule De Citron Galet;France;Ile de la Reunion;Indian Ocean;680,00;680;1010,50;1010;0;Lava;Jean-Yves Bigot;2016;1
+D114;Abisso di Malga Fossetta;Italy;Veneto;Alto.di Asiago;4207,00;4207;1011,00;1011;0;Limestone;www.scintilena.com/finalmente-il-primo-1000-del-veneto/06/06/;2016;6
+D113;Sonconga;Mexico;Oaxaca;-;2057,00;2057;1014,00;1014;0;Limestone;http://www.amcs-pubs.org/longanddeep.html;1999;4
+D112;Macola J. Huevos;Slovenia;-;Kanin;2356,00;2356;1016,00;1016;0;Conglomerate;Marko Erker e-mail;2020;4
+141;Xia, Qikeng, Lanmu Shu, Miao Keng, Xiaogu Chi. Dongba Dong;China;Chongqing;Wulong;35479,00;35479;1020,00;1020;0;Limestone;LIU JIA e-mail;2019;4
+122;Qikengdong;China;Chongqing;Wulong;38546,00;38546;1020,00;1020;0;Limestone;;2016;8
+D109;Torca Urriellu;Spain;Asturias;Picos de Europa;4057,00;4057;1022,00;1022;0;Limestone;Mark Minton - NSS News V42N10P313-314;1984;10
+D108;Bleikogelhîhle (Hedwigshîhle P351);Austria;Tennengebirge;Salzburg;2000,00;2000;1023,00;1023;0;Limestone;Lukas Plan email;2024;6
+D107;Gamssteighîhle;Austria;Hoher Gîll;Salzburg;9980,00;9980;1025,00;1025;0;Limestone;Lukas Plan email;2024;6
+D106;Jamski sustav Velebita;Croatia;Sj Velebit;Roanski kukovi;3346,00;3346;1026,00;1026;0;Limestone;Aida Bari?ic e-mail;2019;9
+160;Ellis Basin System (Tomo Thyme, Exhaleair, & Exhalibur);New Zealand;South Island;Mt Arthur;33400,00;33400;1026,00;1026;0;Limestone;Lindsay Main NZ Speleological Soc. Info Officer;2022;5
+D104;Torca Castil (PC.15) - Carbonal (CT.14);Spain;Asturias;Picos de Europa;6926,00;6926;1028,00;1028;0;Limestone;Jose Luis Membrado e-mail;2023;4
+D103;Herbsthîhle (MÑanderhîhle);Austria;Tennengebirge;Salzburg;1588,00;1588;1029,00;1029;0;Limestone;Lukas Plan email;2024;6
+D102;Buca Go Fredo;Italy;Toscana;Apli Apuana;1025,00;1025;1030,00;1030;0;Limestone;Caver Tim;2018;10
+D101;Abisso Led Zeppelin;Italy;Friuli VG;Canin Massif;2800,00;2800;1030,00;1030;0;Limestone;WWW.CAVERINFO.COM/2011/LED-ZEPPELIN-2020 11/;2016;3
+12;Hoelloch;Switzerland;Schwyz;Muotatal;209597,00;209597;1033,00;1033;0;Limestone;https://www.hoellochforschung.ch/forschung/forschungsobjekte-der-agh;2022;12
+D98;Brezno specega dinozavra;Slovenia;-;Kanin;0,00;0;1040,00;1040;0;Limestone;FB;2021;10
+D99;Abisso Satanachia (Buca del Muschio);Italy;Toscana;Alpi Apuane;0,00;0;1040,00;1040;0;Limestone;http://www.scintilena.com/;2016;9
+135;Complesso dei Piani Eterni;Italy;Veneto;Dolomiti BL;36160,00;36160;1052,00;1052;0;Limestone;Francesco Sauro e-mail;2020;10
+D96;Buca del Selcifero - Abisso Chimera;Italy;Toscana;Vagli di Sotto;9430,00;9430;1058,00;1058;0;Limestone;Speleologia N68P102-103;2016;6
+D95;Abisso Mani Pulite;Italy;Toscana;Monte Tambura;1100,00;1100;1060,00;1060;0;Limestone;Speleologia N68P102-103;2017;7
+D94;Dolzina jame Hudi;Slovenia;-;Kaninski podi;7500,00;7500;1060,00;1060;0;Limestone;FB;2021;11
+14;Schînberg-Hîhlensystem;Austria;Totes Gebirge;Stmk/Oô;156942,00;156942;1061,00;1061;0;Limestone;Lukas Plan email;2024;6
+D92;Torca la Monda;Spain;Leon;Picos de Europa;0,00;0;1063,00;1063;0;Limestone;Jose Luis Membrado e-mail;2023;1
+110;Scialet de les Nuits Blanches - Superieur du clos d'Aspres;France;Isere;Vercors;42000,00;42000;1066,00;1066;0;Gypsum;Le Karst Du Gypse, Jean Yves Bigot Page 86-87;2002;7
+D90;Muttseehoehle;Switzerland;Glarus;Muttsee;7880,00;7880;1070,00;1070;0;Limestone;http://ch.speleo.info;2016;6
+191;JÑgerbrunntrog-Hîhlensystem;Austria;Hagengebirge;Salzburg;28026,00;28026;1078,00;1078;0;Limestone;Lukas Plan email;2024;6
+D88;Zoou Cave (Dzou);Georgia;Abkhazia;West Caucasus;6000,00;6000;1090,00;1090;0;Limestone;http://www.barrier.org.ru/text/dzou.htm;2019;4
+219;DôF-Sonnenleiter-Hîhlensystem;Austria;Totes Gebirge;Steiermark;25273,00;25273;1092,00;1092;0;Limestone;Lukas Plan email;2024;6
+340;Sistema sima GESM - sima de la Luna;Spain;Malaga;Tolox;17940,00;17940;1098,00;1098;0;Limestone;Jose Luis Membrado e-mail;2022;3
+D85;P4-Brezno rumenega maka (Kanin);Slovenia;-;Kanin;6017,00;6017;1099,00;1099;0;Limestone;Marko Erker e-mail;2020;9
+D84;Gourgouthakas (Lefka Ori);Greece;Crete;Levka Ori;2384,00;2384;1100,00;1100;0;Limestone;Panagiotis Papadakos email;2024;10
+652;Schneeloch;Austria;Tennengebirge;Salzburg;10319,00;10319;1101,00;1101;0;Limestone;Lukas Plan email;2024;6
+511;Wildbaderhîhle;Austria;Totes Gebirge;Steiermark;12496,00;12496;1101,00;1101;0;Limestone;Lukas Plan email;2024;6
+57;Kazumura Cave;USA;Hawaii;Hawaii;65500,00;65500;1101,50;1101;0;Lava;HSS Newsletter N9P7;2016;6
+D80;Sistema Julagua - la Texa;Spain;Asturias;Picos de Europa;6923,00;6923;1102,00;1102;0;Limestone;Jose Luis Membrado e-mail;2016;7
+D79;Abisso Pozzo della Neve;Italy;Molise;Matese;8000,00;8000;1109,00;1109;0;Limestone;Tullio Bernabei email;2022;12
+D78;Arabikskaja (Kuibyshevskaja/Genrikhova Bezdna);Georgia;Abkhazia;West Caucasus;3250,00;3250;1110,00;1110;0;Limestone;www.sgs.erl.e-burg.su/~sigalov/clist.html;2019;8
+D77;Grouffre du Lion (Cave of the Lion);Greece;Crete;Levka Ori;4003,00;4003;1110,00;1110;0;Limestone;Panagiotis Papadakos email;2024;10
+17;Schwarzmooskogel-Hîhlensystem;Austria;Totes Gebirge;Steiermark;137746,00;137746;1111,00;1111;0;Limestone;Lukas Plan email;2024;6
+38;Complesso del Monte Canin;Italy;Friuli Venezia Giulia;Chiusafoete;83800,00;83800;1118,00;1118;0;Limestone;Francesco Serafin e-mail;1999;7
+143;Complesso della Carcaraia (Abisso Saragato);Italy;Toscana;Alpi Apuane;35000,00;35000;1125,00;1125;0;Limestone;Speleologia N68P102-103;2009;7
+D73;Steinbockschacht;Austria;Hochschwab;Steiermark;2851,00;2851;1127,00;1127;0;Limestone;Lukas Plan email;2024;6
+D72;Visnevskij;Uzbekistan;-;-;8004,00;8004;1131,00;1131;0;Limestone;Descent N282P29;2018;2
+D71;Prvi Sistem Molicka (Pec) Planine (Zadnikovo Abyss);Slovenia;-;Dleskovska planota;3827,00;3827;1135,00;1135;0;Limestone;Speleological Association of Slovenia, Cave Register;2016;3
+D70;Feichtner-Schachthîhle;Austria;Glocknergruppe;Salzburg;7706,00;7706;1145,00;1145;0;Limestone;Lukas Plan email;2024;6
+87;Delissea Cave System;USA;Hawaii;Hawaii;49900,00;49900;1147,00;1147;0;Lava;Peter Bosted e-mail;2023;12
+81;Gamslîcher-Kolowrat-Hîhlensystem;Austria;Untersberg;Salzburg;50721,00;50721;1147,00;1147;0;Limestone;Lukas Plan email;2024;6
+486;Tanne des Pra d'Zeures T075;France;Haute Savoie;Tournette;13000,00;13000;1148,00;1148;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+265;Riesending-Schachthohle;Germany;Bavaria;Untersgberg Mtns.;22600,00;22600;1149,00;1149;0;Limestone;Thomas Matthalm e-mail;2019;8
+113;Sistema de las Fuentes de Escuain (Badalona B15-B1);Spain;Huesca;Escuain;40217,00;40217;1151,00;1151;0;Limestone;Jose Luis Membrado e-mail;2022;12
+D64;Anou Ifflis;Algeria;Bouira;Djurdjura Range;2000,00;2000;1159,00;1159;0;Limestone;Javier Lario;2010;12
+D63;Abisso Perestroika;Italy;Toscana;Monte Tambura;1200,00;1200;1160,00;1160;0;Limestone;Speleologia N68P102-103;2017;7
+D62;Jeskyne Iron Deep;Montenegro;Negro;Maganik;2845,00;2845;1162,00;1162;0;Limestone;Speleoforum 32 P45-50 - Czech Speleological Society;;
+D61;Torca Idoubeda;Spain;Asturias;Picos de Europa;2826,00;2826;1167,00;1167;0;Limestone;Caves & Caving I84;1999;7
+D60;Sima 56 de Andara(Torca del Cueto de los Senderos);Spain;Cantabria;Picos de Europa;5620,00;5620;1169,00;1169;0;Limestone;Jose Luis Membrado e-mail;2023;4
+D59;JubilÑumsschacht;Austria;Hoher Gîll;Salzburg;2378,00;2378;1173,00;1173;0;Limestone;Lukas Plan email;2024;6
+124;Nettlebed Cave System (Blizzard Pot top entrance,Stormy Pot);New Zealand;South Island;Mt Arthur;38252,00;38252;1174,00;1174;0;Limestone;Lindsay Main NZ Speleological Soc. Info Officer;2022;8
+D57;Vandima;Slovenia;Julian Alps;Rombonski Podi;2500,00;2500;1182,00;1182;0;Limestone;Speleological Association of Slovenia, Cave Register;2016;3
+D56;Sistema Nogochl (Akemabis/Santito);Mexico;Puebla;Ocotempa;6308,00;6308;1182,00;1182;0;Limestone;Al Warild / Franco Attolini;2017;4
+D55;Torca Piedras Verdes;Spain;Asturias;Picos de Europa;3158,00;3158;1187,00;1187;0;Limestone;Jose Luis Membrado e-mail;2016;9
+41;Complesso del Monte Corchia (Fighiera,Farol.)- Su Palu;Italy;Toscana;Alpi Apuane;76000,00;76000;1187,00;1187;0;Limestone;Guido Baroncni Turricchia e-mail;2009;7
+651;Gouffre du Bracas de Thurugne 6 (Reseau de Soudet);France;Atlantiques;Pierre Saint Martin;10340,00;10340;1188,00;1188;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+D52;Äukurpinar Dudeni;Turkey;Mersin;Anamur;3550,00;3550;1196,00;1196;0;Limestone;Wikipedia links;2020;2
+D51;Skalarjevo Brezno;Slovenia;-;Kaninski podi;8039,00;8039;1197,00;1197;0;Limestone;Klemen Mihalic email;2016;3
+D50;Torca de Jou sin Tierra;Spain;Cantabria;Picos de Europa;0,00;0;1203,00;1203;0;Limestone;Jose Luis Membrado e-mail;2016;1
+53;Dachstein-Mammuthîhle;Austria;Dachstein;Oberîsterreich;67701,00;67701;1207,00;1207;0;Limestone;Lukas Plan email;2024;6
+D48;Abisso Ulivifer (Olivifer);Italy;Toscana;Alpi Apuane;7600,00;7600;1215,00;1215;0;Limestone;Speleologia N68P102-103;2017;7
+D47;Schwer-Hîhlensystem;Austria;Tennengebirge;Salzburg;6273,00;6273;1219,00;1219;0;Limestone;Lukas Plan email;2024;6
+170;Kihaje Xontjoa;Mexico;Oaxaca;Cerro Rabon P.;31373,00;31373;1223,00;1223;0;Limestone;http://www.amcs-pubs.org/longanddeep.html;2016;6
+415;Ozto J2;Mexico;Oaxaca;Cuicatlan;14840,00;14840;1229,00;1229;0;Limestone;Mark Minton e-mail;2016;1
+D44;Moskovskaja;Georgia;Abkhazia;West Caucasus;1800,00;1800;1250,00;1250;0;Limestone;Pavel Demidov e-mail;2015;2
+D43;Pozo del Madejuno;Spain;Leon;Picos de Europa;2853,00;2853;1252,00;1252;0;Limestone;Jose Luis Membrado e-mail;2015;10
+D42;Torca dos los Rebecos;Spain;Asturias;Picos de Europa;2228,00;2228;1255,00;1255;0;Limestone;E.Elguero (Internet);1994;5
+359;Neide - Muruk Cave;Papua New Guinea;New Britain;Galowe Plateau;17000,00;17000;1258,00;1258;0;Limestone;Deep Cave List by Philippe Drouin;;
+623;Sistema Hitu - Cueva Culiembru;Spain;Asturias;Picos de Europa;10700,00;10700;1264,00;1264;0;Limestone;Depth from Phil Rowsell's calculations from the survey data.;2016;1
+D39;Morca;Turkey;Mersin;Mersin / Anamur;5714,00;5714;1276,00;1276;0;Limestone;https://tumaf.org/turkiyenin-en-uzun-ve-en-derin-magaralari/;2010;12
+D38;Cueva Charco;Mexico;Oaxaca;Cuicatlan;6710,00;6710;1278,00;1278;0;Limestone;Mark Minton e-mail;2016;5
+D37;Vishevsky;Uzbekistan;Uzbekistan;Gissaro-Alay;8500,00;8500;1283,00;1283;0;Limestone;Primo? Jakopin email;2024;4
+D36;Vladimir V. Iljukhina System;Georgia;Abkhazia;West Caucasus;5890,00;5890;1286,00;1286;0;Limestone;web;2022;1
+177;Berger-Platteneck-Hîhlensystem;Austria;Tennengebirge;Salzburg;30396,00;30396;1291,00;1291;0;Limestone;Lukas Plan email;2024;6
+D34;Jojar;Iran;Kermanshah;-;2257,00;2257;1300,00;1300;0;Limestone;Alexey Zhalov e-mail;2022;1
+180;Complesso del Releccio Alfredo Bini (W Le Donne);Italy;Lombardia;Grigna. Settentrionale;29600,00;29600;1313,00;1313;0;Limestone;Andrea Maconi e-mail;2009;7
+549;Mala Boka - BC4 System;Slovenia;Julian Alps;Bovska Kotlina;11875,00;11875;1319,00;1319;0;Limestone;Marko Erker e-mail;2016;8
+519;Renejevo brezno - P4;Slovenia;Julian Alps;Kaninski podi;12296,00;12296;1322,00;1322;0;Limestone;Long Cave List;2020;8
+132;Gouffre Berger - Gouffre de la Fromagere;France;Isere;Vercors;37000,00;37000;1323,00;1323;0;Limestone;https://fr-academic.com/dic.nsf/frwiki/717878#cite_note-1;2022;12
+D29;Slovacka jama;Croatia;Sj Velebit;Mali kuk;6416,00;6416;1324,00;1324;0;Underwater;Aida Bari?ic e-mail, Speleology Commission of the Croation Mountaineering Association;2019;9
+D28;Jama Nedam;Croatia;Sj Velebit;Hajdueki kukovi;3399,00;3399;1335,00;1335;0;Limestone;Aida Bari?ic e-mail;2021;10
+119;Sistema Illaminako (BU.56 - A.60);Spain;Navarra;Larra;38913,00;38913;1340,00;1340;0;Limestone;Jose Luis Membrado email;2024;11
+13;Siebenhengste-hohgant Hoehlensystem;Switzerland;Bern;Eriz/Beat./Ha.;164500,00;164500;1340,00;1340;0;Limestone;Email;2009;7
+D25;Sima del Sabbat;Spain;Huesca;Pirineos;6710,00;6710;1346,00;1346;0;Limestone;Jose Luis Membrado e-mail;2024;6
+92;Sistema Aranonera (Sima S1-S2)(Tendenera connected);Spain;Huesca;Pirineos;47500,00;47500;1349,00;1349;0;Limestone;Jose Luis Membrado e-mail;2024;1
+284;Abisso Paolo Roversi;Italy;Toscana;Alpi Apuane;21000,00;21000;1360,00;1360;0;Limestone;web;2022;1
+297;Cave system of Crnelsko brezno;Slovenia;Julian Alps;Rombonski Podi;20066,00;20066;1393,00;1393;0;Limestone;Peter Svete e-mail;2021;10
+421;Hochscharten-Hîhlensystem;Austria;Hoher Gîll;Salzburg;14668,00;14668;1394,00;1394;0;Limestone;Lukas Plan email;2024;6
+D20;Kuzgun (Ravens Sinkhole);Turkey;Kayseri;Kayseri / Yahyali;3187,00;3187;1400,00;1400;0;Limestone;https://tumaf.org/turkiyenin-en-uzun-ve-en-derin-magaralari/;2010;12
+34;Gouffre de la Pierre Saint Martin - gouffre des Partages;France / Spain;Pyrenees-Atlantiques;Pierre Saint Martin;88111,00;88111;1410,00;1410;0;Limestone;Jose Luis Membrado email;2025;1
+D18;EGMA (PeynirlikînÅ);Turkey;Mersin;Mersin / Anamur;3118,00;3118;1429,00;1429;0;Limestone;https://tumaf.org/turkiyenin-en-uzun-ve-en-derin-magaralari/;2010;12
+405;Boybuloq (Boylok);Uzbekistan;Uzbekistan;Gissaro-Alay;15212,00;15212;1430,00;1430;0;Limestone;Primo? Jakopin email;2024;4
+D16;Jamski Sustav Lukina jama - Trojama (Manual II);Croatia;Sj Velebit;Hajdueki kukovi;3741,00;3741;1431,00;1431;0;Limestone;Aida Bari?ic e-mail, Speleology Commission of the Croation Mountaineering Association;2023;1
+D15;Sistema del Trave;Spain;Asturias;Cabrales;9167,00;9167;1441,00;1441;0;Limestone;International Caver N19P23;1997;5
+D14;Cehi 2;Slovenia;Julian Alps;Rombonski Podi;5536,00;5536;1505,00;1505;0;Limestone;Longest & Deepest Caves of Slovenia;2017;4
+D13;Sima de la Cornisa - Torca Magali;Spain;Leon;Picos de Europa;6445,00;6445;1507,00;1507;0;Limestone;http://www.kuleuven.be/speku/expeditions/spain/cornisaslides.htm;2016;9
+D12;Shakta Vjacheslav Pantjukhina;Georgia;Abkhazia;West Caucasus;5530,00;5530;1508,00;1508;0;Limestone;Vasily Vl.Suhachev e-mail;2020;6
+31;Sistema Cheve (Cuicateco);Mexico;Oaxaca;Cuicatlan;90924,00;90924;1538,00;1538;0;Limestone;Bill Stone email;2025;1
+29;Sistema Huautla;Mexico;Oaxaca;Huautla de Ji.;100233,00;100233;1560,00;1560;0;Limestone;Tommy Shifflett & Bill Steele FB;2017;6
+21;Hirlatzhîhle;Austria;Dachstein;Oberîsterreich;117840,00;117840;1560,00;1560;0;Limestone;Lukas Plan email;2024;6
+D8;Torca del Cerro del Cuevon (T.33)-Torca de las Saxifragas;Spain;Asturias;Picos de Europa;7060,00;7060;1589,00;1589;0;Limestone;www.federacionaragonesaespeleologia.com/;2016;5
+203;Reseau Jean Bernard;France;Haute Savoie;Haute-Giffre;26685,00;26685;1625,00;1625;0;Limestone;Liste des cavites naturelles les plus longues de France;2022;6
+66;Lamprechtsofen;Austria;Leoganger Steinberge;Salzburg;60000,00;60000;1727,00;1727;0;Limestone;Lukas Plan email;2024;6
+485;Gouffre Mirolda / Lucien Bouclier;France;Haute Savoie;Samoens;13000,00;13000;1733,00;1733;0;Limestone;Philippe Audra (Spelunca N66);2017;6
+235;Illyuzia-Mezhonnogo-Snezhnaya;Georgia;Abkhazia;West Caucasus;24080,00;24080;1760,00;1760;0;Limestone;Web;2016;8
+D3;Sarma;Georgia;Abkhazia;West Caucasus;6370,00;6370;1830,00;1830;0;Limestone;Alexander Klimchouk via Bogan Ona e-mail;2019;8
+384;Krubera (Voronja) Cave;Georgia;Abkhazia;West Caucasus;16058,00;16058;2199,00;2199;0;Limestone;Web;2017;6
+501;Veryovkina;Georgia;Abkhazia;Arabika massive;12700,00;12700;2212,00;2212;0;Limestone;FB;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
