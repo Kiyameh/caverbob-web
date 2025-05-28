@@ -41,7 +41,7 @@ body {
     --secondary-foreground: 222 47% 11%;
 
     /* Accent: Purple */
-    --accent: 262 83% 58%;
+    --accent: 345 72.3% 50.7%;
     --accent-foreground: 0 0% 100%;
 
     /* Muted colors */
@@ -88,7 +88,7 @@ body {
     --secondary-foreground: 210 40% 98%;
 
     /* Accent: Purple in dark mode */
-    --accent: 262 83% 58%;
+    --accent: 345 72.3% 50.7%;
     --accent-foreground: 0 0% 100%;
 
     /* Muted colors */
