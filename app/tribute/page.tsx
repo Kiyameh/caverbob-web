@@ -7,9 +7,9 @@ export default function TributePage() {
   const {t} = useLanguage()
 
   return (
-    <div className="container mx-auto px-4 py-12 bg-surface-1">
+    <div className="container mx-auto px-4 py-12 ">
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold mb-8 text-center bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
+        <h1 className="text-4xl font-bold mb-8 text-center  text-accent">
           {t('tribute.title')}
         </h1>
 

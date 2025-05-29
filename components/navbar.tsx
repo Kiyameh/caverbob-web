@@ -11,9 +11,6 @@ import {UserMenu} from '@/components/auth/user-menu'
 import {MeasurementToggle} from '@/components/measurement-toggle'
 import {LanguageToggle} from '@/components/language-toggle'
 import {DiscussionCount} from '@/components/discussion-count'
-import {Chelsea_Market} from 'next/font/google'
-
-const kirangHaerang = Chelsea_Market({weight: '400', subsets: ['latin']})
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -22,7 +19,7 @@ export default function Navbar() {
 
   return (
     <>
-      <nav className="bg-primary text-primary-foreground shadow-md">
+      <nav className="bg-primary text-primary-foreground">
         <div className="container mx-auto px-4">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
@@ -35,12 +32,12 @@ export default function Navbar() {
                   alt="CaverBob.org Logo"
                   className="h-8 w-auto"
                 />
-                <span className={kirangHaerang.className}>CaverBob.org</span>
+                <span>CaverBob.org</span>
               </Link>
             </div>
 
             {/* Desktop menu */}
-            <div className="hidden md:flex space-x-4">
+            <div className="hidden xl:flex space-x-4">
               <Link
                 href="/"
                 className="px-3 py-2 rounded-md hover:bg-primary-foreground/20"
@@ -84,7 +81,7 @@ export default function Navbar() {
             </div>
 
             {/* Right side items: Language toggle, Measurement toggle */}
-            <div className="hidden md:flex items-center space-x-4">
+            <div className="hidden xl:flex items-center space-x-4">
               {/* Language toggle */}
               <LanguageToggle />
 
@@ -96,7 +93,7 @@ export default function Navbar() {
             </div>
 
             {/* Mobile menu button */}
-            <div className="md:hidden flex items-center space-x-4">
+            <div className="xl:hidden flex items-center space-x-4">
               {/* Mobile language toggle */}
               <LanguageToggle compact />
 
@@ -120,7 +117,7 @@ export default function Navbar() {
 
         {/* Mobile menu */}
         {isMenuOpen && (
-          <div className="md:hidden">
+          <div className="xl:hidden">
             <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
               <Link
                 href="/"

@@ -23,7 +23,7 @@ export function HomeClient({
   return (
     <div className="container mx-auto px-4 py-8">
       <div className="flex justify-between items-center mb-8">
-        <h1 className="text-3xl font-bold">Rankings Mundiales de Cuevas</h1>
+        <h1 className="text-3xl font-bold">{t('home.title')}</h1>
         <ReportDialog />
       </div>
 
