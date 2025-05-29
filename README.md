@@ -1,30 +1,79 @@
 # CaverBob.org
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+<div align="center">
+  <img src="public/logo.png" alt="CaverBob Logo" width="200"/>
+</div>
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kiyamehs-projects/v0-caver-bob-org)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/xopx8mzJjQx)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://www.caverbob.org)
 
-## Overview
+## Descripción
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+CaverBob.org es una plataforma web dedicada a mostrar y mantener el ranking mundial de cuevas. La aplicación está dedicada a la memoria de Robert Gulden y sirve como un repositorio central para la información sobre cuevas de todo el mundo.
 
-## Deployment
+## Características Principales
 
-Your project is live at:
+- 📊 **Rankings de Cuevas**
 
-**[https://vercel.com/kiyamehs-projects/v0-caver-bob-org](https://vercel.com/kiyamehs-projects/v0-caver-bob-org)**
+  - Cuevas más largas
+  - Cuevas más profundas
+  - Pozos profundos
+  - Cámaras más grandes
 
-## Build your app
+- 🔐 **Autenticación**
 
-Continue building your app on:
+  - Inicio de sesión con Google
+  - Perfiles de usuario personalizados
+  - Sistema de permisos basado en roles
 
-**[https://v0.dev/chat/projects/xopx8mzJjQx](https://v0.dev/chat/projects/xopx8mzJjQx)**
+- 💬 **Sistema de Comentarios**
 
-## How It Works
+  - Discusiones por cueva
+  - Foro comunitario
+  - Interacción entre usuarios
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- 📝 **Reportes de Datos**
+
+  - Envío de nuevos datos sobre cavidades
+  - Actualización de información existente
+  - Sistema de verificación de datos
+
+- 🌍 **Internacionalización**
+  - Soporte multiidioma
+  - Interfaz en español e inglés
+  - Adaptación a diferentes regiones
+
+## Tecnologías Utilizadas
+
+- **Frontend**
+
+  - Next.js
+  - React
+  - Tailwind CSS
+  - TypeScript
+
+- **Backend**
+
+  - Supabase
+  - Node.js
+  - API Routes
+
+- **Autenticación**
+
+  - Google OAuth
+  - Supabase Auth
+
+- **Despliegue**
+  - Vercel
+  - CI/CD automático
+
+## Contribución
+
+Las contribuciones son bienvenidas.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+
+## Contacto
+
+Para soporte o consultas, por favor utiliza el formulario de contacto en la aplicación o envía un email a [kiyameh@outlook.com](mailto:kiyameh@outlook.com).
