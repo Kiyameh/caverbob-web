@@ -32,7 +32,7 @@ export default function Navbar() {
                   alt="CaverBob.org Logo"
                   className="h-8 w-auto"
                 />
-                <span>CaverBob.org</span>
+                <span className="hidden md:inline">CaverBob.org</span>
               </Link>
             </div>
 
@@ -166,7 +166,7 @@ export default function Navbar() {
                 {t('nav.support')}
               </Link>
               {!isLoading && !user && (
-                <div className="mt-2 px-3">
+                <div className="mt-3 w-full">
                   <LoginButton />
                 </div>
               )}
