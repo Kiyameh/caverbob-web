@@ -82,6 +82,23 @@ export const metadata: Metadata = {
   verification: {
     google: 'google-site-verification-code', // Necesitarás añadir tu código de verificación
   },
+  icons: {
+    icon: [
+      {url: '/favicon.png'},
+      {url: '/favicon.png', sizes: '32x32', type: 'image/png'},
+      {url: '/favicon.png', sizes: '16x16', type: 'image/png'},
+    ],
+    apple: [
+      {url: '/favicon.png'},
+      {url: '/favicon.png', sizes: '180x180', type: 'image/png'},
+    ],
+    other: [
+      {
+        rel: 'mask-icon',
+        url: '/favicon.png',
+      },
+    ],
+  },
 }
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
