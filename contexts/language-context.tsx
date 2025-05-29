@@ -201,6 +201,7 @@ const translations = {
     'report.source': 'Data Source',
     'report.submit': 'Submit Report',
     'report.submitting': 'Submitting...',
+    'report.sent': 'Sent',
     'report.success': 'Report Submitted',
     'report.success.description':
       'Thank you for your contribution. We will review the information and update it soon.',
@@ -225,6 +226,7 @@ const translations = {
     'contact.message.placeholder': 'Tell us about the error or suggestion...',
     'contact.submit': 'Send Message',
     'contact.submitting': 'Sending...',
+    'contact.sent': 'Sent',
     'contact.success': 'Message Sent',
     'contact.success.description':
       'Thank you for your feedback. We will review it and get back to you soon.',
@@ -422,6 +424,7 @@ const translations = {
     'report.source': 'Fuente de los Datos',
     'report.submit': 'Enviar Reporte',
     'report.submitting': 'Enviando...',
+    'report.sent': 'Enviado',
     'report.success': 'Reporte Enviado',
     'report.success.description':
       'Gracias por tu contribución. Revisaremos la información y la actualizaremos pronto.',
@@ -447,6 +450,7 @@ const translations = {
       'Cuéntanos sobre el error o la sugerencia...',
     'contact.submit': 'Enviar Mensaje',
     'contact.submitting': 'Enviando...',
+    'contact.sent': 'Enviado',
     'contact.success': 'Mensaje Enviado',
     'contact.success.description':
       'Gracias por tu retroalimentación. La revisaremos y te responderemos pronto.',
@@ -644,6 +648,7 @@ const translations = {
     'report.source': 'Source des Données',
     'report.submit': 'Envoyer le Signalement',
     'report.submitting': 'Envoi en cours...',
+    'report.sent': 'Envoyé',
     'report.success': 'Signalement Envoyé',
     'report.success.description':
       'Merci pour votre contribution. Nous examinerons les informations et les mettrons à jour bientôt.',
@@ -669,6 +674,7 @@ const translations = {
       "Parlez-nous de l'erreur ou de la suggestion...",
     'contact.submit': 'Envoyer le Message',
     'contact.submitting': 'Envoi en cours...',
+    'contact.sent': 'Envoyé',
     'contact.success': 'Message Envoyé',
     'contact.success.description':
       "Merci pour votre retour. Nous l'examinerons et vous répondrons bientôt.",

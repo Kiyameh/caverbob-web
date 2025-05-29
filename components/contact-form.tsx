@@ -12,6 +12,7 @@ import {Alert, AlertDescription} from '@/components/ui/alert'
 
 export function ContactForm() {
   const [isSubmitting, setIsSubmitting] = useState(false)
+  const [isSent, setIsSent] = useState(false)
   const {toast} = useToast()
   const {t} = useLanguage()
 
@@ -44,6 +45,7 @@ export function ContactForm() {
         title: t('contact.success'),
         description: t('contact.success.description'),
       })
+      setIsSent(true)
       e.currentTarget.reset()
     } catch (error) {
       toast({
@@ -69,6 +71,7 @@ export function ContactForm() {
             name="name"
             required
             placeholder={t('contact.name.placeholder')}
+            disabled={isSent}
           />
         </div>
         <div className="space-y-2">
@@ -79,6 +82,7 @@ export function ContactForm() {
             type="email"
             required
             placeholder={t('contact.email.placeholder')}
+            disabled={isSent}
           />
           <Alert
             variant="destructive"
@@ -95,6 +99,7 @@ export function ContactForm() {
             name="subject"
             required
             placeholder={t('contact.subject.placeholder')}
+            disabled={isSent}
           />
         </div>
         <div className="space-y-2">
@@ -105,14 +110,19 @@ export function ContactForm() {
             required
             placeholder={t('contact.message.placeholder')}
             className="min-h-[150px]"
+            disabled={isSent}
           />
         </div>
         <Button
           type="submit"
           className="w-full"
-          disabled={isSubmitting}
+          disabled={isSubmitting || isSent}
         >
-          {isSubmitting ? t('contact.submitting') : t('contact.submit')}
+          {isSent
+            ? t('contact.sent')
+            : isSubmitting
+            ? t('contact.submitting')
+            : t('contact.submit')}
         </Button>
       </form>
     </div>

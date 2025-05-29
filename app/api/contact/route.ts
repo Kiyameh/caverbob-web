@@ -5,18 +5,24 @@ export async function POST(request: Request) {
   try {
     const {name, email, subject, message} = await request.json()
 
+    // Verificar variables de entorno
+    if (!process.env.GMAIL_USER || !process.env.GMAIL_APP_PASSWORD) {
+      throw new Error('Configuración de correo electrónico incompleta')
+    }
+
     const transporter = nodemailer.createTransport({
-      host: 'smtp.office365.com',
-      port: 587,
-      secure: false,
+      service: 'gmail',
       auth: {
-        user: process.env.EMAIL_USER,
-        pass: process.env.EMAIL_PASSWORD,
+        user: process.env.GMAIL_USER,
+        pass: process.env.GMAIL_APP_PASSWORD,
       },
     })
 
+    // Verificar la conexión
+    await transporter.verify()
+
     const mailOptions = {
-      from: process.env.EMAIL_USER,
+      from: process.env.GMAIL_USER,
       to: 'kiyameh@outlook.com',
       subject: `Contact Form: ${subject}`,
       html: `
@@ -34,6 +40,9 @@ export async function POST(request: Request) {
     return NextResponse.json({success: true})
   } catch (error) {
     console.error('Error sending contact form:', error)
-    return NextResponse.json({error: 'Error sending message'}, {status: 500})
+    return NextResponse.json(
+      {error: 'Error sending message: ' + (error as Error).message},
+      {status: 500}
+    )
   }
 }

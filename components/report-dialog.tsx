@@ -22,6 +22,7 @@ import {Alert, AlertDescription} from '@/components/ui/alert'
 export function ReportDialog() {
   const [open, setOpen] = useState(false)
   const [isSubmitting, setIsSubmitting] = useState(false)
+  const [isSent, setIsSent] = useState(false)
   const {toast} = useToast()
   const {t} = useLanguage()
 
@@ -55,7 +56,11 @@ export function ReportDialog() {
         title: t('report.success'),
         description: t('report.success.description'),
       })
-      setOpen(false)
+      setIsSent(true)
+      setTimeout(() => {
+        setOpen(false)
+        setIsSent(false)
+      }, 2000)
     } catch (error) {
       toast({
         title: t('report.error'),
@@ -89,6 +94,7 @@ export function ReportDialog() {
                 name="reporterName"
                 required
                 placeholder={t('report.reporter')}
+                disabled={isSent}
               />
             </div>
             <div className="grid gap-2">
@@ -98,6 +104,7 @@ export function ReportDialog() {
                 name="contactInfo"
                 required
                 placeholder={t('report.contact.placeholder')}
+                disabled={isSent}
               />
               <Alert
                 variant="destructive"
@@ -116,6 +123,7 @@ export function ReportDialog() {
                 name="caveName"
                 required
                 placeholder={t('report.cave')}
+                disabled={isSent}
               />
             </div>
             <div className="grid gap-2">
@@ -126,6 +134,7 @@ export function ReportDialog() {
                 required
                 placeholder={t('report.info')}
                 className="min-h-[100px]"
+                disabled={isSent}
               />
             </div>
             <div className="grid gap-2">
@@ -135,15 +144,20 @@ export function ReportDialog() {
                 name="dataSource"
                 required
                 placeholder={t('report.source')}
+                disabled={isSent}
               />
             </div>
           </div>
           <DialogFooter>
             <Button
               type="submit"
-              disabled={isSubmitting}
+              disabled={isSubmitting || isSent}
             >
-              {isSubmitting ? t('report.submitting') : t('report.submit')}
+              {isSent
+                ? t('report.sent')
+                : isSubmitting
+                ? t('report.submitting')
+                : t('report.submit')}
             </Button>
           </DialogFooter>
         </form>
