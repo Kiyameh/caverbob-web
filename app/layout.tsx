@@ -11,9 +11,77 @@ import {LanguageProvider} from '@/contexts/language-context'
 const outfit = Outfit({subsets: ['latin']})
 
 export const metadata: Metadata = {
-  title: 'CaverBob.org - Worldwide Cave Rankings',
+  title: {
+    default: 'CaverBob.org - Worldwide Cave Rankings',
+    template: '%s | CaverBob.org',
+  },
   description:
-    'The central repository for worldwide cave rankings, dedicated to the memory of Robert Gulden.',
+    'The central repository for worldwide cave rankings, dedicated to the memory of Robert Gulden. Find the longest, deepest, and most remarkable caves in the world.',
+  keywords: [
+    'caves',
+    'speleology',
+    'cave rankings',
+    'longest caves',
+    'deepest caves',
+    'cave exploration',
+    'Robert Gulden',
+  ],
+  authors: [{name: 'CaverBob.org Team'}],
+  creator: 'CaverBob.org',
+  publisher: 'CaverBob.org',
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
+  metadataBase: new URL('https://www.caverbob.org'),
+  alternates: {
+    canonical: '/',
+    languages: {
+      'en-US': '/en',
+      'es-ES': '/es',
+      'fr-FR': '/fr',
+    },
+  },
+  openGraph: {
+    title: 'CaverBob.org - Worldwide Cave Rankings',
+    description:
+      'The central repository for worldwide cave rankings, dedicated to the memory of Robert Gulden. Find the longest, deepest, and most remarkable caves in the world.',
+    url: 'https://www.caverbob.org',
+    siteName: 'CaverBob.org',
+    images: [
+      {
+        url: '/logo.png',
+        width: 200,
+        height: 200,
+        alt: 'CaverBob Logo',
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'CaverBob.org - Worldwide Cave Rankings',
+    description:
+      'The central repository for worldwide cave rankings, dedicated to the memory of Robert Gulden. Find the longest, deepest, and most remarkable caves in the world.',
+    images: ['/logo.png'],
+    creator: '@caverbob',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  verification: {
+    google: 'google-site-verification-code', // Necesitarás añadir tu código de verificación
+  },
 }
 
 export default function RootLayout({children}: {children: React.ReactNode}) {

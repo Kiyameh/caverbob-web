@@ -1,5 +1,11 @@
-import { getLongestCaves, getDeepestCaves, getDeepPits, getLargestChambers } from "@/lib/cave-service"
-import { HomeClient } from "@/components/home-client"
+import {
+  getLongestCaves,
+  getDeepestCaves,
+  getDeepPits,
+  getLargestChambers,
+} from '@/lib/cave-service'
+import {HomeClient} from '@/components/home-client'
+import type {Metadata} from 'next'
 
 export default async function Home() {
   // Fetch data for all rankings
@@ -16,4 +22,13 @@ export default async function Home() {
       largestChambers={largestChambers}
     />
   )
+}
+
+export const metadata: Metadata = {
+  title: 'Worldwide Cave Rankings',
+  description:
+    "Explore the world's most remarkable caves. Find rankings for the longest, deepest, and most impressive cave systems across the globe.",
+  alternates: {
+    canonical: '/',
+  },
 }
