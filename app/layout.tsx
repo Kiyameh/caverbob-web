@@ -25,6 +25,11 @@ export const metadata: Metadata = {
     'deepest caves',
     'cave exploration',
     'Robert Gulden',
+    'cave statistics',
+    'cave database',
+    'cave research',
+    'cave mapping',
+    'cave conservation',
   ],
   authors: [{name: 'CaverBob.org Team'}],
   creator: 'CaverBob.org',
@@ -82,6 +87,18 @@ export const metadata: Metadata = {
   verification: {
     google: 'google-site-verification-code', // Necesitarás añadir tu código de verificación
   },
+  category: 'Science & Technology',
+  classification: 'Cave Research Database',
+  referrer: 'origin-when-cross-origin',
+  themeColor: [
+    {media: '(prefers-color-scheme: light)', color: '#ffffff'},
+    {media: '(prefers-color-scheme: dark)', color: '#344256'},
+  ],
+  viewport: {
+    width: 'device-width',
+    initialScale: 1,
+    maximumScale: 5,
+  },
   icons: {
     icon: [
       {url: '/favicon.png'},
@@ -109,15 +126,29 @@ export default function RootLayout({children}: {children: React.ReactNode}) {
           <LanguageProvider>
             <MeasurementProvider>
               <div className="flex flex-col min-h-screen">
+                <a
+                  href="#main-content"
+                  className="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:p-4 focus:bg-white focus:text-black"
+                >
+                  Skip to main content
+                </a>
                 <Navbar />
-                <main className="flex-grow relative">
-                  <div className="absolute top-0 left-0 w-full h-auto z-[-1] opacity-20">
+                <main
+                  id="main-content"
+                  className="flex-grow relative"
+                  role="main"
+                >
+                  <div
+                    className="absolute top-0 left-0 w-full h-auto z-[-1] opacity-20"
+                    aria-hidden="true"
+                  >
                     <svg
                       width="100%"
                       height="auto"
                       viewBox="0 0 1440 181"
                       fill="none"
                       xmlns="http://www.w3.org/2000/svg"
+                      aria-hidden="true"
                     >
                       <path
                         d="M9.5 178.5L0.5 150V1H1439V105L1425.5 168.5L1415.5 131L1407 146L1324 44L1232 40.5L1198.5 63L1185 102L1177.5 80L1168 118L1160.5 85.5L1144.5 59L1074.5 34.5L979 24L902 34.5H831.5H766L740 59L727 44L669 24L624 44L571.5 20.5L494 24L471 48.5L455.5 109.5L440.5 71L435 90L429.5 71L409 34.5L342 30.5L311 62.5L302.5 105L287.5 71L256.5 44L210.5 48.5L176 71L152 105L136.5 90L126 128L120 105L105.5 93.5L89.5 122.5L79 109.5L60 144L41 109.5L23.5 140.5L9.5 178.5Z"
@@ -129,7 +160,10 @@ export default function RootLayout({children}: {children: React.ReactNode}) {
                       />
                     </svg>
                   </div>
-                  <div className="absolute opacity-20 bottom-0 left-0 w-full h-auto z-[-2]">
+                  <div
+                    className="absolute opacity-20 bottom-0 left-0 w-full h-auto z-[-2]"
+                    aria-hidden="true"
+                  >
                     <svg
                       id="visual"
                       viewBox="0 0 900 450"
@@ -138,6 +172,7 @@ export default function RootLayout({children}: {children: React.ReactNode}) {
                       preserveAspectRatio="xMidYMid slice"
                       xmlns="http://www.w3.org/2000/svg"
                       version="1.1"
+                      aria-hidden="true"
                     >
                       <path
                         d="M0 353L90 327L180 361L270 363L360 351L450 346L540 328L630 342L720 343L810 337L900 348L900 451L810 451L720 451L630 451L540 451L450 451L360 451L270 451L180 451L90 451L0 451Z"

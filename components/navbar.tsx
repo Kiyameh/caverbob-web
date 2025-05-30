@@ -19,96 +19,120 @@ export default function Navbar() {
 
   return (
     <>
-      <nav className="bg-primary text-primary-foreground">
+      <nav
+        className="bg-primary text-primary-foreground"
+        role="navigation"
+        aria-label="Main navigation"
+      >
         <div className="container mx-auto px-4">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Link
                 href="/"
                 className="text-3xl font-bold flex items-center gap-2"
+                aria-label="CaverBob.org Home"
               >
                 <img
                   src="/logo.png"
-                  alt="CaverBob.org Logo"
+                  alt=""
                   className="h-8 w-auto"
+                  aria-hidden="true"
                 />
                 <span className="hidden md:inline">CaverBob.org</span>
               </Link>
             </div>
 
             {/* Desktop menu */}
-            <div className="hidden xl:flex space-x-4">
+            <div
+              className="hidden xl:flex space-x-4"
+              role="menubar"
+            >
               <Link
                 href="/"
                 className="px-3 py-2 rounded-md hover:bg-primary-foreground/20"
+                role="menuitem"
               >
                 {t('nav.rankings')}
               </Link>
               <Link
                 href="/discussion"
                 className="px-3 py-2 rounded-md hover:bg-primary-foreground/20 flex items-center"
+                role="menuitem"
               >
                 {t('nav.discussion')}
-                <span className="ml-1.5">
+                <span
+                  className="ml-1.5"
+                  aria-label={`${t('nav.discussion')} count`}
+                >
                   <DiscussionCount />
                 </span>
               </Link>
               <Link
                 href="/sources"
                 className="px-3 py-2 rounded-md hover:bg-primary-foreground/20"
+                role="menuitem"
               >
                 {t('nav.sources')}
               </Link>
               <Link
                 href="/about"
                 className="px-3 py-2 rounded-md hover:bg-primary-foreground/20"
+                role="menuitem"
               >
                 {t('nav.about')}
               </Link>
               <Link
                 href="/tribute"
                 className="px-3 py-2 rounded-md hover:bg-primary-foreground/20"
+                role="menuitem"
               >
                 {t('nav.tribute')}
               </Link>
               <Link
                 href="/support"
                 className="px-3 py-2 rounded-md bg-accent hover:bg-accent/70 font-medium flex items-center gap-1.5"
+                role="menuitem"
               >
-                <Heart className="w-4 h-4" />
+                <Heart
+                  className="w-4 h-4"
+                  aria-hidden="true"
+                />
                 {t('nav.support')}
               </Link>
             </div>
 
-            {/* Right side items: Language toggle, Measurement toggle */}
-            <div className="hidden xl:flex items-center space-x-4">
-              {/* Language toggle */}
+            {/* Right side items */}
+            <div
+              className="hidden xl:flex items-center space-x-4"
+              role="toolbar"
+              aria-label="User preferences"
+            >
               <LanguageToggle />
-
-              {/* Measurement system toggle */}
               <MeasurementToggle />
-
-              {/* User menu */}
               {isLoading ? null : user ? <UserMenu /> : null}
             </div>
 
             {/* Mobile menu button */}
             <div className="xl:hidden flex items-center space-x-4">
-              {/* Mobile language toggle */}
               <LanguageToggle compact />
-
-              {/* Mobile measurement toggle */}
               <MeasurementToggle compact />
-
-              {/* Mobile menu toggle */}
               <button
                 onClick={() => setIsMenuOpen(!isMenuOpen)}
                 className="text-primary-foreground hover:text-gray-200 focus:outline-none"
+                aria-expanded={isMenuOpen}
+                aria-controls="mobile-menu"
+                aria-label={isMenuOpen ? 'Close menu' : 'Open menu'}
               >
                 {isMenuOpen ? (
-                  <X className="h-6 w-6" />
+                  <X
+                    className="h-6 w-6"
+                    aria-hidden="true"
+                  />
                 ) : (
-                  <Menu className="h-6 w-6" />
+                  <Menu
+                    className="h-6 w-6"
+                    aria-hidden="true"
+                  />
                 )}
               </button>
             </div>
@@ -117,12 +141,18 @@ export default function Navbar() {
 
         {/* Mobile menu */}
         {isMenuOpen && (
-          <div className="xl:hidden">
+          <div
+            className="xl:hidden"
+            id="mobile-menu"
+            role="menu"
+            aria-label="Mobile menu"
+          >
             <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
               <Link
                 href="/"
                 className="block px-3 py-2 rounded-md hover:bg-primary-foreground/20"
                 onClick={() => setIsMenuOpen(false)}
+                role="menuitem"
               >
                 {t('nav.rankings')}
               </Link>
@@ -130,9 +160,13 @@ export default function Navbar() {
                 href="/discussion"
                 className="px-3 py-2 rounded-md hover:bg-primary-foreground/20 flex items-center"
                 onClick={() => setIsMenuOpen(false)}
+                role="menuitem"
               >
                 {t('nav.discussion')}
-                <span className="ml-1.5">
+                <span
+                  className="ml-1.5"
+                  aria-label={`${t('nav.discussion')} count`}
+                >
                   <DiscussionCount />
                 </span>
               </Link>
@@ -140,6 +174,7 @@ export default function Navbar() {
                 href="/sources"
                 className="block px-3 py-2 rounded-md hover:bg-primary-foreground/20"
                 onClick={() => setIsMenuOpen(false)}
+                role="menuitem"
               >
                 {t('nav.sources')}
               </Link>
@@ -147,6 +182,7 @@ export default function Navbar() {
                 href="/about"
                 className="block px-3 py-2 rounded-md hover:bg-primary-foreground/20"
                 onClick={() => setIsMenuOpen(false)}
+                role="menuitem"
               >
                 {t('nav.about')}
               </Link>
@@ -154,6 +190,7 @@ export default function Navbar() {
                 href="/tribute"
                 className="block px-3 py-2 rounded-md hover:bg-primary-foreground/20"
                 onClick={() => setIsMenuOpen(false)}
+                role="menuitem"
               >
                 {t('nav.tribute')}
               </Link>
@@ -161,8 +198,12 @@ export default function Navbar() {
                 href="/support"
                 className="px-3 py-2 rounded-md bg-accent hover:bg-accent/70 font-medium flex items-center gap-1.5"
                 onClick={() => setIsMenuOpen(false)}
+                role="menuitem"
               >
-                <Heart className="w-4 h-4" />
+                <Heart
+                  className="w-4 h-4"
+                  aria-hidden="true"
+                />
                 {t('nav.support')}
               </Link>
               {!isLoading && !user && (

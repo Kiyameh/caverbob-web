@@ -63,19 +63,33 @@ export function ContactForm() {
       <form
         onSubmit={handleSubmit}
         className="space-y-6"
+        aria-label={t('contact.title')}
+        noValidate
       >
         <div className="space-y-2">
-          <Label htmlFor="name">{t('contact.name')}</Label>
+          <Label
+            htmlFor="name"
+            id="name-label"
+          >
+            {t('contact.name')}
+          </Label>
           <Input
             id="name"
             name="name"
             required
             placeholder={t('contact.name.placeholder')}
             disabled={isSent}
+            aria-labelledby="name-label"
+            aria-required="true"
           />
         </div>
         <div className="space-y-2">
-          <Label htmlFor="email">{t('contact.email')}</Label>
+          <Label
+            htmlFor="email"
+            id="email-label"
+          >
+            {t('contact.email')}
+          </Label>
           <Input
             id="email"
             name="email"
@@ -83,27 +97,47 @@ export function ContactForm() {
             required
             placeholder={t('contact.email.placeholder')}
             disabled={isSent}
+            aria-labelledby="email-label"
+            aria-required="true"
+            aria-describedby="email-warning"
           />
           <Alert
             variant="destructive"
             className="mt-2"
+            id="email-warning"
+            role="alert"
           >
-            <AlertCircle className="h-4 w-4" />
+            <AlertCircle
+              className="h-4 w-4"
+              aria-hidden="true"
+            />
             <AlertDescription>{t('contact.email.warning')}</AlertDescription>
           </Alert>
         </div>
         <div className="space-y-2">
-          <Label htmlFor="subject">{t('contact.subject')}</Label>
+          <Label
+            htmlFor="subject"
+            id="subject-label"
+          >
+            {t('contact.subject')}
+          </Label>
           <Input
             id="subject"
             name="subject"
             required
             placeholder={t('contact.subject.placeholder')}
             disabled={isSent}
+            aria-labelledby="subject-label"
+            aria-required="true"
           />
         </div>
         <div className="space-y-2">
-          <Label htmlFor="message">{t('contact.message')}</Label>
+          <Label
+            htmlFor="message"
+            id="message-label"
+          >
+            {t('contact.message')}
+          </Label>
           <Textarea
             id="message"
             name="message"
@@ -111,12 +145,15 @@ export function ContactForm() {
             placeholder={t('contact.message.placeholder')}
             className="min-h-[150px]"
             disabled={isSent}
+            aria-labelledby="message-label"
+            aria-required="true"
           />
         </div>
         <Button
           type="submit"
           className="w-full"
           disabled={isSubmitting || isSent}
+          aria-busy={isSubmitting}
         >
           {isSent
             ? t('contact.sent')
